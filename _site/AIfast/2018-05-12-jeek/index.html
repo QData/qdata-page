@@ -1,0 +1,538 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.22.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>JEEK - Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models - Qdata Team Research Summary Site</title>
+<meta name="description" content="Tool JEEK: A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+
+
+  <meta name="author" content="Qdata">
+  
+  <meta property="article:author" content="Qdata">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Qdata Team Research Summary Site">
+<meta property="og:title" content="JEEK - Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+<meta property="og:url" content="http://localhost:4000/qdata-page/AIfast/2018-05-12-jeek/">
+
+
+  <meta property="og:description" content="Tool JEEK: A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/qdata-page/assets/bio-photo.png">
+
+
+
+  <meta name="twitter:site" content="@Qdatalab">
+  <meta name="twitter:title" content="JEEK - Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+  <meta name="twitter:description" content="Tool JEEK: A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+  <meta name="twitter:url" content="http://localhost:4000/qdata-page/AIfast/2018-05-12-jeek/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="http://localhost:4000/qdata-page/assets/bio-photo.png">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2018-05-12T00:00:00-04:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/qdata-page/AIfast/2018-05-12-jeek/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Organization",
+      "url": "http://localhost:4000/qdata-page/",
+      "logo": "http://localhost:4000/qdata-page/assets/bio-photo.png"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/qdata-page/feed.xml" type="application/atom+xml" rel="alternate" title="Qdata Team Research Summary Site Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/qdata-page/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/qdata-page/"><img src="/qdata-page/assets/tempIcon.png" alt=""></a>
+        
+        <a class="site-title" href="/qdata-page/">
+          Qdata Team Site
+          <span class="site-subtitle">Qdata Team Site</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/qdata-page/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/AIbiomed/">AIbiomed</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/AIfast/">AIfast</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/AIself/">AIself</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/AItrust/">AItrust</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/sitemap/">Sitemap</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/tags/">ByTags</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/tagTable/">Detailed-Tags</a>
+            </li><li class="masthead__menu-item">
+              <a href="/qdata-page/categories/">ByCategories</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">Getting Started</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/qdata-page/docs/quick-start-guide/">Quick-Start Guide</a></li>
+          
+            <li><a href="/qdata-page/docs/structure/">Structure</a></li>
+          
+            <li><a href="/qdata-page/docs/installation/">Installation</a></li>
+          
+            <li><a href="/qdata-page/docs/upgrading/">Upgrading</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Customization</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/qdata-page/docs/configuration/">Configuration</a></li>
+          
+            <li><a href="/qdata-page/docs/overriding-theme-defaults/">Overriding Theme Defaults</a></li>
+          
+            <li><a href="/qdata-page/docs/navigation/">Navigation</a></li>
+          
+            <li><a href="/qdata-page/docs/ui-text/">UI Text</a></li>
+          
+            <li><a href="/qdata-page/docs/authors/">Authors</a></li>
+          
+            <li><a href="/qdata-page/docs/layouts/">Layouts</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Content</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/qdata-page/docs/posts/">Working with Posts</a></li>
+          
+            <li><a href="/qdata-page/docs/pages/">Working with Pages</a></li>
+          
+            <li><a href="/qdata-page/docs/collections/">Working with Collections</a></li>
+          
+            <li><a href="/qdata-page/docs/helpers/">Helpers</a></li>
+          
+            <li><a href="/qdata-page/docs/utility-classes/">Utility Classes</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Extras</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/qdata-page/docs/stylesheets/">Stylesheets</a></li>
+          
+            <li><a href="/qdata-page/docs/javascript/">JavaScript</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Meta</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/qdata-page/docs/history/">History</a></li>
+          
+            <li><a href="/qdata-page/docs/contributing/">Contributing</a></li>
+          
+            <li><a href="/qdata-page/docs/docs-2-2/">Old 2.2 Docs</a></li>
+          
+            <li><a href="/qdata-page/docs/license/">License</a></li>
+          
+            <li><a href="/qdata-page/terms/">Terms &amp; Privacy Policy</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="JEEK - Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+    <meta itemprop="description" content="Tool JEEK: A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models">
+    <meta itemprop="datePublished" content="2018-05-12T00:00:00-04:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">JEEK - Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models
+</h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <h2 id="tool-jeek-a-fast-and-scalable-joint-estimator-for-integrating-additional-knowledge-in-learning-multiple-related-sparse-gaussian-graphical-models">Tool JEEK: A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models</h2>
+
+<h3 id="paper-most-updated-version-at-here--previous-version-arxiv-">Paper: Most updated version at <a href="https://github.com/QData/JEEK/blob/master/icml18-JEEKarxivUpdated.pdf">HERE</a> | Previous version: <a href="https://arxiv.org/abs/1806.00548">@Arxiv</a> |</h3>
+<h3 id="url-at--2018-icml">URL at  <a href="http://proceedings.mlr.press/v80/wang18f.html">2018 ICML</a></h3>
+
+<h3 id="talkslide-url">TalkSlide: <a href="https://github.com/QData/JEEK/blob/master/JEEK-ICML18talk.pdf">URL</a></h3>
+
+<h3 id="r-package-url">R package: <a href="https://cran.r-project.org/web/packages/jeek/index.html">URL</a></h3>
+
+<h3 id="gitrepo-for-r-package-url">GitRepo for R package: <a href="https://github.com/QData/JEEK">URL</a></h3>
+
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">install.packages</span><span class="p">(</span><span class="s2">"jeek"</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">jeek</span><span class="p">)</span><span class="w">
+</span><span class="n">demo</span><span class="p">(</span><span class="n">jeek</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="abstract">Abstract</h3>
+<p>We consider the problem of including additional knowledge in estimating sparse Gaussian graphical models (sGGMs) from aggregated samples, arising often in bioinformatics and neuroimaging applications. Previous joint sGGM estimators either fail to use existing knowledge or cannot scale-up to many tasks (large $K$) under a high-dimensional (large $p$) situation.  In this paper, we propose a  novel \underline{J}oint \underline{E}lementary \underline{E}stimator incorporating additional \underline{K}nowledge (JEEK) to infer multiple related sparse Gaussian Graphical models from large-scale heterogeneous data. Using domain knowledge as weights, we design a novel hybrid norm as the minimization objective to enforce the superposition of two weighted sparsity constraints, one on the shared interactions and the other on the task-specific structural patterns. This enables JEEK to elegantly consider various forms of existing knowledge based on the domain at hand and avoid the need to design knowledge-specific optimization. JEEK is solved through a fast and entry-wise parallelizable solution that largely improves the computational efficiency of the state-of-the-art  $O(p^5K^4)$ to $O(p^2K^4)$. We conduct a rigorous statistical analysis showing that JEEK achieves the same  convergence rate $O(\log(Kp)/n_{tot})$ as the state-of-the-art estimators that are much harder to compute. 
+Empirically, on multiple synthetic datasets and two real-world data, JEEK outperforms the speed of the state-of-arts significantly while achieving the same level of prediction accuracy.</p>
+
+<h3 id="about-adding-additional-knowledge">About Adding Additional Knowledge</h3>
+
+<p>One significant caveat of state-of-the-art joint sGGM estimators is the fact that little attention has been paid to incorporating existing knowledge of the nodes or knowledge of the relationships among nodes in the models. 
+In addition to the samples themselves, additional information is widely available in real-world applications. In fact, incorporating the knowledge is of great scientific interest. A prime example is when estimating the functional brain connectivity networks among brain regions based on fMRI samples, the spatial position of the regions are readily available. Neuroscientists have gathered considerable knowledge regarding the spatial and anatomical evidence underlying brain connectivity (e.g., short edges and certain anatomical regions are more likely to be connected \cite{watts1998collective}). Another important example is the problem of identifying gene-gene interactions from patients’ gene expression profiles across multiple cancer types. Learning the statistical dependencies among genes from such heterogeneous datasets can help to understand how such dependencies vary from normal to abnormal and help to discover contributing markers that influence or cause the diseases. Besides the patient samples, state-of-the-art bio-databases like HPRD \cite{prasad2009human} have collected a significant amount of information about direct physical interactions among corresponding proteins, regulatory gene pairs or signaling relationships collected from high-qualify bio-experiments.</p>
+
+<p>Although being strong evidence of structural patterns we aim to discover, this type of information has rarely been considered in the joint sGGM formulation of such samples. This paper aims to fill this gap by adding additional knowledge most effectively into scalable and fast joint sGGM estimations.</p>
+
+<p>The proposed JEEK estimator provides the flexibility of using ($K+1$) different weight matrices representing the extra knowledge. We try to showcase a few possible designs of the weight matrices, including (but not limited to):</p>
+
+<ul>
+  <li>Spatial or anatomy knowledge about brain regions;</li>
+  <li>Knowledge of known co-hub nodes or perturbed  nodes;</li>
+  <li>Known group information about nodes, such as genes belonging to the same biological pathway or cellular location;</li>
+  <li>Using existing known edges as the knowledge, like the known protein interaction databases for discovering gene networks (a semi-supervised setting for such estimations).</li>
+</ul>
+
+<p>We sincerely believe the scalability and flexibility provided by JEEK can make structure learning of joint sGGM feasible in many real-world tasks.</p>
+
+<h5 id="an-example-w-for-how-to-add-known-group-sparity">an example W for how to add known group sparity</h5>
+<p><img src="/qdata-page/pic/group.png" alt="jeekGroup" class="img-responsive" /></p>
+
+<h5 id="an-example-w-for-how-to-add-known-group-interactions">an example W for how to add known group interactions</h5>
+<p><img src="/qdata-page/pic/group2.png" alt="jeekGroup" class="img-responsive" /></p>
+
+<h5 id="an-example-w-for-how-to-add-known-hub-node">an example W for how to add known hub node</h5>
+<p><img src="/qdata-page/pic/hub.png" alt="jeekGroup" class="img-responsive" /></p>
+
+<h5 id="an-example-w-for-how-to-add-known-perturbed-hub-node">an example W for how to add known perturbed-hub node</h5>
+<p><img src="/qdata-page/pic/hub2per.png" alt="jeekGroup" class="img-responsive" /></p>
+
+<h3 id="citations">Citations</h3>
+
+<div class="language-latex highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@conference<span class="p">{</span>wang2018jeek,
+  Author = <span class="p">{</span>Wang, Beilun and Sekhon, Arshdeep and Qi, Yanjun<span class="p">}</span>,
+  Booktitle = <span class="p">{</span>Proceedings of The 35th International Conference on Machine Learning (ICML)<span class="p">}</span>,
+  Title = <span class="p">{</span>A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models<span class="p">}</span>,
+  Year = <span class="p">{</span>2018<span class="p">}}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="support-or-contact">Support or Contact</h3>
+
+<p>Having trouble with our tools? Please <a href="mailto:bw4mw@virginia.edu">contact Beilun</a> and we’ll help you sort it out.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/qdata-page/tags/#extraprior" class="page__taxonomy-item" rel="tag">ExtraPrior</a><span class="sep">, </span>
+    
+      <a href="/qdata-page/tags/#multigraphs" class="page__taxonomy-item" rel="tag">MultiGraphs</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-05-12T00:00:00-04:00">May 12, 2018</time></p>
+
+
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="/qdata-page/AIfast/2017-11-08-diffee/" class="pagination--pager" title="DIFFEE to identify Sparse Changes in High-Dimensional Gaussian Graphical Model Structure
+">Previous</a>
+    
+    
+      <a href="/qdata-page/AIfast/2018-08-19-Tutorials/" class="pagination--pager" title="A Series of Tutorials We wrote to explain the JointSGGM tools we built
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <div align="center" style="margin: 1em 0;">
+        <ins class="adsbygoogle"
+             style="display:block; border-bottom: initial;"
+             data-ad-client="ca-pub-7328585512091257"
+             data-ad-slot="3049671934"
+             data-ad-format="auto"></ins>
+        </div>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/Qdatalab" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/qdata" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/qdata-page/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2021 Qdata. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/qdata-page/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/qdata-page/assets/js/lunr/lunr.min.js"></script>
+<script src="/qdata-page/assets/js/lunr/lunr-store.js"></script>
+<script src="/qdata-page/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>
