@@ -1,7 +1,13 @@
 ---
-layout: default
-title: Home
+layout: category
+permalink: /categories/AIfastConnectome/
+taxonomy: AIfastConnectome
+desc: 'a suite of graphical model tools we have developed for discovering connectomes from samples.'
+title: Heterogeneous Samples to Connectomes
+entries_layout: grid
+classes: wide
 ---
+
 
  <div> The website  <a href="http://jointnets.org/">jointnets.org</a> introduces updates of a suite of graphical model tools we have developed for discovering relationships (in the form of graphs) among variables from heterogeneous data sets. The methods can estimate relationships (in the form of graphs) among variables from heterogeneous data. Please feel free to email me when you find my typos. </div>
 
@@ -61,8 +67,7 @@ We have designed a suite of novel and fast machine-learning algorithms to identi
 
 ### So far, we have released multiple methods in the following table. We have their corresponding prototype tools into one joint R toolkit [jointNets in CRAN](https://cran.r-project.org/web/packages/JointNets/index.html). 
 
-- ### More details on [JointNets Tools]({{ site.baseurl }}{% link Toolkits.md %}) toolkit. 
-
+ 
 
 | No. | Tool Name  |   Short Description | Venue |
 | :--- | :----------- | :----------------- | ---------: |

@@ -1,6 +1,6 @@
 ---
 categories:
-- AIfastgraph
+- AIfastConnectome
 title: A Series of Tutorials We wrote to explain the JointSGGM tools we built
 tag:
 - Tutorials

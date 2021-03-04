@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Home
+layout: category
+permalink: /categories/AItrust/
+taxonomy: AItrust
+entries_layout: grid
+classes: wide
 desc: 'A suite of tools we designed for making machine learning secure and trustworthy. '
 ---
 
@@ -36,14 +39,14 @@ At the junction between machine learning and computer security, this project inv
 
 | No. | Tool Category  |   ~~~~~~~~~Paper~Title~~~~~~ | Venues |  Software |
 | :--- | :-------: | :--------:  | :--------------------------: | -------: |
-| 1 | Evade NLP Machine Learning |  [TextAttack: A Framework for Adversarial Attacks in Natural Language Processing]({{ site.baseurl }}{% link 1Evade.md %}#TextAttack) | EMNLP2020 | [GitHub](https://github.com/QData/TextAttack) |
-| 2 | Evade Machine Learning | [Automatically Evading Classifiers, Case Study on PDF Malware Classifiers]({{ site.baseurl }}{% link 1Evade.md %}#genetic) | NDSS16  |[GitHub](https://github.com/uvasrg/EvadeML) |
-| 3 | Evade NLP Machine Learning |  [Black-box Generation of Adversarial Text Sequences to Fool Deep Learning Classifiers]({{ site.baseurl }}{% link 1Evade.md %}#wordbug) | DeepSecureWkp18 | [GitHub](https://github.com/QData/deepWordBug) |
-| 4 | Detect Adversarial Attacks | [Feature Squeezing- Detecting Adversarial Examples in Deep Neural Networks]({{ site.baseurl }}{% link 2Detect.md %}) | NDSS18 |[GitHub](https://github.com/QData/FeatureSqueezing) |
-| 5 | Defense against Adversarial Attacks | [DeepCloak- Masking Deep Neural Network Models for Robustness against Adversarial Samples]({{ site.baseurl }}{% link 3Defend.md %}) | ICLRwkp17 | [GitHub](https://github.com/qdata/deepcloak) |
-| 6 | Visualize Adversarial Attacks | [Adversarial-Playground- A Visualization Suite for Adversarial Samples]({{ site.baseurl }}{% link 4VisualizeBench.md %}#play)  | VizSec17 | [GitHub](https://github.com/QData/AdversarialDNN-Playground) |
-| 7 | Theorems of Adversarial Examples | [A Theoretical Framework for Robustness of (Deep) Classifiers Against Adversarial Samples]({{ site.baseurl }}{% link 5Theory.md %}) | ICLRw17 |  |
-| 8 | Trustworthy via Interpretation | [Deep Motif Dashboard]({{ site.baseurl }}{% link 6Interpret.md %}) | ICLRw2017 |  |
+| 1 | Evade NLP Machine Learning |  [TextAttack: A Framework for Adversarial Attacks in Natural Language Processing] | EMNLP2020 | [GitHub](https://github.com/QData/TextAttack) |
+| 2 | Evade Machine Learning | [Automatically Evading Classifiers, Case Study on PDF Malware Classifiers] | NDSS16  |[GitHub](https://github.com/uvasrg/EvadeML) |
+| 3 | Evade NLP Machine Learning |  [Black-box Generation of Adversarial Text Sequences to Fool Deep Learning Classifiers] | DeepSecureWkp18 | [GitHub](https://github.com/QData/deepWordBug) |
+| 4 | Detect Adversarial Attacks | [Feature Squeezing- Detecting Adversarial Examples in Deep Neural Networks]  | NDSS18 |[GitHub](https://github.com/QData/FeatureSqueezing) |
+| 5 | Defense against Adversarial Attacks | [DeepCloak- Masking Deep Neural Network Models for Robustness against Adversarial Samples] | ICLRwkp17 | [GitHub](https://github.com/qdata/deepcloak) |
+| 6 | Visualize Adversarial Attacks | [Adversarial-Playground- A Visualization Suite for Adversarial Samples]  | VizSec17 | [GitHub](https://github.com/QData/AdversarialDNN-Playground) |
+| 7 | Theorems of Adversarial Examples | [A Theoretical Framework for Robustness of (Deep) Classifiers Against Adversarial Samples] | ICLRw17 |  |
+| 8 | Trustworthy via Interpretation | [Deep Motif Dashboard] | ICLRw2017 |  |
 
 
 

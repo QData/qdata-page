@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: tags
 permalink: /tagTable/
 author_profile: true
 title: Research by Tags as Tables
@@ -11,7 +11,7 @@ Click on a tag to see relevant list of posts.
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-  <li><a href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}" class="newBtn">{{ t | downcase }}</a></li>
+  <li><a href="{{ site.baseurl }}/tagTable/#{{t | downcase | replace:" ","-" }}" class="newBtn">{{ t | downcase }}</a></li>
 {% endfor %}
 </ul>
 
@@ -22,7 +22,7 @@ Click on a tag to see relevant list of posts.
   {% assign t = tag | first %}
   {% assign posts = site.posts  | sort: 'date' | reverse %}
 
-<h2><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h2>
+<h2><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/tagTable/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h2>
 
 <table id="datatab3" summary="Table of readings" border="1">
 <tr>
@@ -58,7 +58,7 @@ Click on a tag to see relevant list of posts.
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
 <td>
     {% for t in post.tags %}
-    <a class="button2" href="{{ site.baseurl }}/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
+    <a class="button2" href="{{ site.baseurl }}/tagTable/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a>
   {% endfor %}
 </td>
 </tr>

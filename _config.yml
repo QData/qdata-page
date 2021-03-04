@@ -120,6 +120,11 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _AIbiomedPage
+  - _AIfastConnectomePage
+  - _AIselfPage
+  - _AItrustPage
+  - _AqgroupPage
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -171,22 +176,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  AIbiomed:
-    output: true
-    permalink: /:collection/:path/
-  AIfast:
-    output: true
-    permalink: /:collection/:path/
-  AItrust:
-    output: true
-    permalink: /:collection/:path/
-  AIself:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -197,7 +186,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -207,54 +196,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _AIself
-  - scope:
-      path: ""
-      type: AIself
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      share: false
-      comments: false
       sidebar:
         nav: "docs"
-  # _AIbiomed
-  - scope:
-      path: ""
-      type: AIbiomed
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
-  # _AIfast
-  - scope:
-      path: ""
-      type: AIfast
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
-  # _AItrust 
-  - scope:
-      path: ""
-      type: AItrust
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
+
 
 
 # Sass/SCSS

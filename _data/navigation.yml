@@ -1,24 +1,30 @@
 
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "AIbiomed"
-    url: /AIbiomed/
-  - title: "AIfast"
-    url: /AIfast/
-  - title: "AIself"
-    url: /AIself/
-  - title: "AItrust"
-    url: /AItrust/
+  - title: "News"
+    url: /news/
+  - title: "DeepChrome"
+    url: /categories/AIbiomed/
+  - title: "TrustworthyAI"
+    url: /categories/AItrust/
+  - title: "DeepDiscrete"
+    url: /categories/AIself/
+  - title: "Samples2Connectome"
+    url: /categories/AIfastConnectome/
+  - title: "Member"
+    url: /member-page/
+  - title: "ResearchByYear"
+    url: /year-archive/
+  - title: "ByCategoriesGrid"
+    url: /categories-grid/
+  - title: "ByTagsGrid"
+    url: /tags-grid/
+  - title: "ByTagsTable"
+    url: /tagTable/
+# for debugging 
+#debugs:
   - title: "Sitemap"
     url: /sitemap/
-  - title: "ByTags"
-    url: /tags/
-  - title: "Detailed-Tags"
-    url: /tagTable/
-  - title: "ByCategories"
-    url: /categories/
 
 
 # documentation links

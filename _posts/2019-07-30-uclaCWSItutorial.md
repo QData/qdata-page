@@ -1,6 +1,6 @@
 ---
 categories:
-- AIfastgraph
+- AIfastConnectome
 title: My tutorial talk about jointnets at UCLA computational genomics summer school 2019 
 tag:
 - Tutorials 

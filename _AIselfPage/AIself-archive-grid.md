@@ -1,6 +1,10 @@
 ---
-layout: default
-title: Home
+layout: category
+permalink: /categories/AIself/
+taxonomy: AIself
+title: Deep Learning on Discrete Data
+entries_layout: grid
+classes: wide
 desc: 'a suite of deep learning tools we have developed on discrete data'
 ---
 
