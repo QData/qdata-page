@@ -2,7 +2,7 @@
 layout: tags
 permalink: /tagTable/
 author_profile: true
-title: Research by Tags as Tables
+title: Projects by Tags as Tables
 ---
 
 Click on a tag to see relevant list of posts.

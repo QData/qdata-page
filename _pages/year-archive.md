@@ -7,12 +7,6 @@ author_profile: true
 
 
 <!---
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}

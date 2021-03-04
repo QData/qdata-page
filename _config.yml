@@ -220,7 +220,7 @@ defaults:
       author_profile: true
       read_time: true
       sidebar:
-        nav: "docsAIb"
+        nav: "docs"
   #- _AIfastConnectomePage
   - scope:
       path: "_AIfastConnectomePage"
@@ -230,7 +230,7 @@ defaults:
       author_profile: true
       read_time: true
       sidebar:
-        nav: "docsAIf"
+        nav: "docs"
   #- _AIselfPage
   - scope:
       path: "_AIselfPage"
@@ -240,7 +240,7 @@ defaults:
       author_profile: true
       read_time: true
       sidebar:
-        nav: "docsAIs"
+        nav: "docs"
   #- _AItrustPage
   - scope:
       path: "_AItrustPage"
@@ -250,7 +250,7 @@ defaults:
       author_profile: true
       read_time: true
       sidebar:
-        nav: "docsAIt"
+        nav: "docs"
 
 
 

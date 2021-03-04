@@ -1,6 +1,7 @@
 ---
-layout: tags
 title: BioText
-order: "3"
+layout: tag
+permalink: /tags/BioText/
+taxonomy: BioText
 description: We design this categoy of machine learning tools to extract knowledge from biomedical text.  
 ---

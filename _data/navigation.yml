@@ -36,6 +36,8 @@ docs:
       url: /member-page/
     - title: "News"
       url: /news/
+    - title: "Toolkits we built"
+      url: /tags/toolkit/
   - title: Our Four Research Fronts
     children:
     - title: "DeepChrome"
@@ -46,7 +48,6 @@ docs:
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
-
   - title: Research by Different Index
     children:
     - title: "ResearchByYear"
@@ -55,91 +56,11 @@ docs:
       url: /categories-grid/
     - title: "ByTagsGrid"
       url: /tags-grid/
+  - title: "Rearch in DeepChrome"
+    children:
+      - title: "EpiGenome"
+        url: /tags/EpiGenome/
 
-sidebar-A:
-  - title: "Indexed into each Category"
-    children:
-      - title: "0Basics"
-        url: /categories/0Basics/
-      - title: "1Theoretical"
-        url: /categories//1Theoretical
-      - title: "2Architecture"
-        url: /categories//2Architecture
-      - title: "2GraphsNN"
-        url: /categories//2GraphsNN
-      - title: "3Reliable"
-        url: /categories//3Reliable/
-      - title: "4Optimization"
-        url: /categories//4Optimization/
-      - title: "5Generative"
-        url: /categories//5Generative
-      - title: "6Reinforcement"
-        url: /categories//6Reinforcement
-      - title: "7MetaDomain"
-        url: /categories//7MetaDomain
-      - title: "8Scalable"
-        url: /categories/8Scalable/
-      - title: "9DiscreteApp"
-        url: /categories//9DiscreteApp
-  - title: "Useful Reads"
-    children:
-      - title: "BasicDeep"
-        url: /Basic2LearnDeep
-      - title: "BasicML"
-        url: /Basic2LearnML
-      - title: "Potential2Read"
-        url: /Potential2Read
-  - title: "Detailed Index"
-    children:
-      - title: "Detailed-Tags"
-        url: /aReadingsIndexByTags
-      - title: "Detailed-Terms"
-        url: /aReadingsIndexByDate
-      - title: "Detailed-Category"
-        url: /aReadingsIndexByCategory
-
-# sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "Parent Page C"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
 
 
 # example navigation

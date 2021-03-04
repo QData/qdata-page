@@ -1,5 +1,7 @@
 ---
 layout: tags
-title: ToolKit
-order: "8"
+title: ToolKits
+layout: tag
+permalink: /tags/toolkit/
+taxonomy: ToolKit
 ---
