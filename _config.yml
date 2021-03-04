@@ -189,6 +189,8 @@ defaults:
       comments: false
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
@@ -196,8 +198,59 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
       sidebar:
         nav: "docs"
+  #- _AqgroupPage
+  - scope:
+      path: "_AqgroupPage"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      sidebar:
+        nav: "docs"
+  #- _AIbiomedPage
+  - scope:
+      path: "_AIbiomedPage"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      sidebar:
+        nav: "docsAIb"
+  #- _AIfastConnectomePage
+  - scope:
+      path: "_AIfastConnectomePage"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      sidebar:
+        nav: "docsAIf"
+  #- _AIselfPage
+  - scope:
+      path: "_AIselfPage"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      sidebar:
+        nav: "docsAIs"
+  #- _AItrustPage
+  - scope:
+      path: "_AItrustPage"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      sidebar:
+        nav: "docsAIt"
 
 
 
@@ -249,6 +302,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category (grid view)"
+title: "Projects by Category (grid view)"
 layout: categories
 permalink: /categories-grid/
 entries_layout: grid

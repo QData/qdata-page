@@ -4,7 +4,7 @@ permalink: /categories/AIbiomed/
 taxonomy: AIbiomed
 desc: 'a suite of
   deep learning tools we have developed for learning patterns and making predictions from data sets in biomedicine. '
-title: Deep Learning on Biomed
+title: Our projects on deep Learning for Biomedicine
 entries_layout: grid
 classes: wide
 ---

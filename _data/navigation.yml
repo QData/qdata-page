@@ -1,8 +1,6 @@
 
 # main links
 main:
-  - title: "News"
-    url: /news/
   - title: "DeepChrome"
     url: /categories/AIbiomed/
   - title: "TrustworthyAI"
@@ -13,76 +11,50 @@ main:
     url: /categories/AIfastConnectome/
   - title: "Member"
     url: /member-page/
+  - title: "News"
+    url: /news/
   - title: "ResearchByYear"
-    url: /year-archive/
+    url: /posts/
   - title: "ByCategoriesGrid"
     url: /categories-grid/
   - title: "ByTagsGrid"
     url: /tags-grid/
-  - title: "ByTagsTable"
-    url: /tagTable/
+
 # for debugging 
-#debugs:
+debugs:
   - title: "Sitemap"
     url: /sitemap/
+  - title: "ByTagsTable"
+    url: /tagTable/
 
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: Group Information
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+    - title: "Member"
+      url: /member-page/
+    - title: "News"
+      url: /news/
+  - title: Our Four Research Fronts
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+    - title: "DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "TrustworthyAI"
+      url: /categories/AItrust/
+    - title: "DeepDiscrete"
+      url: /categories/AIself/
+    - title: "Samples2Connectome"
+      url: /categories/AIfastConnectome/
+
+  - title: Research by Different Index
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+    - title: "ResearchByYear"
+      url: /posts/
+    - title: "ByCategoriesGrid"
+      url: /categories-grid/
+    - title: "ByTagsGrid"
+      url: /tags-grid/
 
 sidebar-A:
   - title: "Indexed into each Category"

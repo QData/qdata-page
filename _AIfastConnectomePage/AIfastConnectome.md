@@ -3,7 +3,7 @@ layout: category
 permalink: /categories/AIfastConnectome/
 taxonomy: AIfastConnectome
 desc: 'a suite of graphical model tools we have developed for discovering connectomes from samples.'
-title: Heterogeneous Samples to Connectomes
+title: Our projects on tools from Heterogeneous Samples to Connectomes
 entries_layout: grid
 classes: wide
 ---
