@@ -9,6 +9,7 @@ tag:
 - DeepSequence
 - 6-Interpret
 - Tagging-Genome
+- ToolKit
 ---
 <a name="demo"></a>
 ## Tool Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks

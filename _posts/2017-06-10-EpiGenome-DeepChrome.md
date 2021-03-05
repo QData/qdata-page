@@ -5,6 +5,7 @@ title: DeepChrome- deep-learning for predicting gene expression from histone mod
 tag:
 - EpiGenome
 - DeepSequence
+- ToolKit
 ---
 
 

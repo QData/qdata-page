@@ -9,6 +9,7 @@ tag:
 - DeepSequence
 - 6-Interpret
 - Tagging-Genome
+- ToolKit
 ---
 
 ## Tool AttentiveChrome: Attend and Predict: Using Deep Attention Model to Understand Gene Regulation by Selective Attention on Chromatin
