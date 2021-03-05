@@ -9,7 +9,7 @@ classes: wide
 ---
 
 
- <div> The website  <a href="http://jointnets.org/">jointnets.org</a> introduces updates of a suite of graphical model tools we have developed for discovering relationships (in the form of graphs) among variables from heterogeneous data sets. The methods can estimate relationships (in the form of graphs) among variables from heterogeneous data. Please feel free to email me when you find my typos. </div>
+ <div>   This front adapts from our legacy website  <a href="http://jointnets.org/">jointnets.org</a> that introduces updates of a suite of graphical model tools we have developed for discovering relationships (in the form of graphs) among variables from heterogeneous data sets. The methods can estimate relationships (in the form of graphs) among variables from heterogeneous data. Please feel free to email me when you find my typos. </div>
 
 
 <br>

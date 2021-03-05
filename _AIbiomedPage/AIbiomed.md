@@ -10,7 +10,7 @@ classes: wide
 ---
 
 <div>
-  The website <a href="http://deepchrome.org/">deepchrome.org</a> introduces updates of a suite of
+  This front adapts from our legacy website <a href="http://deepchrome.org/">deepchrome.org</a> and introduces updates of a suite of
     deep learning tools we have developed for learning patterns and making predictions on biomedical data (mostly from functional genomics).
     Feel free to submit <a href="https://github.com/QData/deep4biomed-web">pull requests</a> when you find my typos.
 

@@ -9,7 +9,7 @@ desc: 'a suite of deep learning tools we have developed on discrete data'
 ---
 
 <div>
-  The website <a href="http://deeplearning4discrete.net/">deeplearning4discrete.net</a> introduces a suite of
+    This front adapts from our legacy website <a href="http://deeplearning4discrete.net/">deeplearning4discrete.net</a>  and introduces a suite of
     deep learning tools we have developed for learning patterns and making predictions on discrete 
     data, like text, graph, or sets.  Feel free to submit <a href="https://github.com/QData/deeplearning4discrete-web">pull requests</a> when you find my typos.
 
