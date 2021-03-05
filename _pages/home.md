@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
-    "UVA Machine Learning QData team focuses on developing novel machine-learning techniques and their important applications, especially those with medical impacts. We strive toward building and sharing benchmarked datasets and open-source research toolkits.<br />
+    UVA Machine Learning QData team focuses on developing novel machine-learning techniques and their important applications, especially those with medical impacts. We strive toward building and sharing open-source research toolkits and benchmark datasets. We have four current research fronts: <br>1. Trustworthy AI; <br>2. DL generalization; <br>3. DeepChrome; <br>4. Samples to Connectomes<br />
 feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "deepChrome"

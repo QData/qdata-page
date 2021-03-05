@@ -2,10 +2,10 @@
 layout: category
 permalink: /categories/AIself/
 taxonomy: AIself
-title: Deep Learning on Discrete Data
+title: Deep Learning's Generalization, Especially on Discrete Type
 entries_layout: grid
 classes: wide
-desc: 'a suite of deep learning tools we have developed on discrete data'
+desc: 'a suite of deep learning tools with weak supervisions that we have developed for discrete data'
 ---
 
 <div>
