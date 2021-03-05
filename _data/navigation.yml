@@ -24,7 +24,7 @@ main:
   - title: "allBlogs"
     url: /post-feed/
   - title: "thisGithub"
-    url: /https://github.com/QData/qdata-page/
+    url: "/https://github.com/QData/qdata-page/"
 
 
 
