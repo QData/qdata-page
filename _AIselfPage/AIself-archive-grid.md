@@ -2,15 +2,16 @@
 layout: category
 permalink: /categories/AIself/
 taxonomy: AIself
-title: Deep Learning's Generalization, Especially on Discrete Type
+title: Deep Learning's Generalization, Especially on structured Type
 entries_layout: grid
 classes: wide
-desc: 'a suite of deep learning tools with weak supervisions that we have developed for discrete data'
+desc: 'a suite of deep learning tools with weak supervisions that we have developed for structured data'
 ---
+
 
 <div>
     This front adapts from our legacy website <a href="http://deeplearning4discrete.net/">deeplearning4discrete.net</a>  and introduces a suite of
-    deep learning tools we have developed for learning patterns and making predictions on discrete 
+    deep learning tools we have developed for learning patterns and making predictions on structured 
     data, like text, graph, or sets.  Feel free to submit <a href="https://github.com/QData/deeplearning4discrete-web">pull requests</a> when you find my typos.
 
 </div>
@@ -28,12 +29,12 @@ levels representing more abstract concepts. In recent years,
 the field of deep learning has lead to groundbreaking performance in many applications such as computer vision, speech understanding, natural language processing, and computational biology.
 
 
-## Why Discrete Data is Interesting? 
+## Why structured discrete Data is Interesting? 
 
 Deep learning constructs networks of parameterized functional modules and is trained  from reference examples using gradient-based optimization [Lecun19]. 
 
 Since it is hard to estimate gradients through functions of discrete random variables, researching on how to make deep learning 
-behave well on discrete data and discrete representation interests us. 
+behave well on discrete structured data and structured representation interests us. 
 Developing such techniques are an active research area. We focus on investigating interpretable and scalable techniques for doing so.
 
 
