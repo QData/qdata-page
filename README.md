@@ -13,3 +13,6 @@
 
 - Team, for any  changes you prefer to add, please fork and PR!  Before PR, please make sure everything works fine locally 
   + (Local build via running `bundle exec jekyll serve`)
+
+
+- ToDo: gallery for member photos

@@ -31,8 +31,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/connect.png
-    alt: "deep discrete"
-    title: "DL on Discrete Data"
+    alt: "deep Generalization"
+    title: "DL Generalization, especially on Discrete Data"
     excerpt: "Deep Learning with Weak Supervision we have developed for discrete data."
     url: "/categories/AIself/"
     btn_class: "btn--primary"

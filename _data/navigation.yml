@@ -5,7 +5,7 @@ main:
     url: /categories/AIbiomed/
   - title: "TrustworthyAI"
     url: /categories/AItrust/
-  - title: "DeepDiscrete"
+  - title: "DeepGeneralization"
     url: /categories/AIself/
   - title: "Samples2Connectome"
     url: /categories/AIfastConnectome/
@@ -55,7 +55,7 @@ docs:
       url: /categories/AIbiomed/
     - title: "TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepDiscrete"
+    - title: "DeepGeneralization"
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
@@ -103,7 +103,7 @@ docs:
         url: /tags/more-MRF/
       - title: "Tutorials"
         url: /tags/Tutorials/
-  - title: "Rearch in DeepDiscrete"
+  - title: "Rearch in DeepGeneralization"
     children:
       - title: "Learn-Dictionary"
         url: /tags/Learn-Dictionary/
@@ -157,7 +157,7 @@ docs4DeepChrome:
       url: /categories/AIbiomed/
     - title: "TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepDiscrete"
+    - title: "DeepGeneralization"
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
@@ -197,7 +197,7 @@ docs4TrustworthyAI:
       url: /categories/AIbiomed/
     - title: "TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepDiscrete"
+    - title: "DeepGeneralization"
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
@@ -237,7 +237,7 @@ docs4Samples2Connectome:
       url: /categories/AIbiomed/
     - title: "TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepDiscrete"
+    - title: "DeepGeneralization"
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
@@ -257,7 +257,7 @@ docs4Samples2Connectome:
 
 
 docs4DeepDiscrete:
-  - title: "Rearch in DeepDiscrete"
+  - title: "Rearch in DeepGeneralization"
     children:
       - title: "Learn-Dictionary"
         url: /tags/Learn-Dictionary/
