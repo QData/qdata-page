@@ -19,6 +19,9 @@ main:
     url: /categories-grid/
   - title: "ByTagsGrid"
     url: /tags-grid/
+  - title: "allProjects"
+    url: /post-feed/
+
 
 # for debugging 
 debugs:
@@ -26,11 +29,14 @@ debugs:
     url: /sitemap/
   - title: "ByTagsTable"
     url: /tagTable/
+  - title: "EntryPage"
+    url: /splash-page/
 
 
-# documentation links
+# documentation sidebar
 docs:
   - title: Group Information
+    url: /
     children:
     - title: "Member"
       url: /member-page/
@@ -39,6 +45,7 @@ docs:
     - title: "Toolkits we built"
       url: /tags/toolkit/
   - title: Our Four Research Fronts
+    url: /
     children:
     - title: "DeepChrome"
       url: /categories/AIbiomed/
@@ -48,6 +55,68 @@ docs:
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
+  - title: "Rearch in TrustworthyAI"
+    children:
+      - title: "1-Evasion"
+        url: /tags/1-Evasion/
+      - title: "2-Detection"
+        url: /tags/2-Detection/
+      - title: "3-Defense"
+        url: /tags/3-Defense/
+      - title: "4-VisualizeBench"
+        url: /tags/4-VisualizeBench/
+      - title: "5-Theory"
+        url: /tags/5-Theory/
+      - title: "6-Interpret"
+        url: /tags/6-Interpret/
+  - title: "Rearch in DeepChrome"
+    children:
+      - title: "EpiGenome"
+        url: /tags/EpiGenome/
+      - title: "SeqGenome"
+        url: /tags/SeqGenome/
+      - title: "deepProtein"
+        url: /tags/Protein/
+      - title: "BioText"
+        url: /tags/BioText/
+      - title: "DeepSequence"
+        url: /tags/DeepSequence/
+      - title: "SVM-StringKernel"
+        url: /tags/SVM-StringKernel/
+      - title: "DeepGraph"
+        url: /tags/DeepGraph/
+  - title: "Rearch in Samples2Connectome"
+    children:
+      - title: "MultiGraphs"
+        url: /tags/MultiGraphs/
+      - title: "DiffGraph"
+        url: /tags/DiffGraph/
+      - title: "ExtraPrior"
+        url: /tags/ExtraPrior/
+      - title: "DiscriminativeGraph"
+        url: /tags/DiscriminativeGraph/
+      - title: "more-MRF"
+        url: /tags/more-MRF/
+      - title: "Tutorials"
+        url: /tags/Tutorials/
+  - title: "Rearch in DeepDiscrete"
+    children:
+      - title: "Learn-Dictionary"
+        url: /tags/Learn-Dictionary/
+      - title: "Generate-Text"
+        url: /tags/Generate-Text/
+      - title: "Semi-Label-Text"
+        url: /tags/Semi-Label-Text/
+      - title: "Predict-Graph"
+        url: /tags/Predict-Graph/
+      - title: "Rank-Metric"
+        url: /tags/Rank-Metric/
+      - title: "Represent-ngram"
+        url: /tags/Represent-ngram/
+      - title: "Tagging-Genome"
+        url: /tags/Tagging-Genome/
+      - title: "Tagging-Protein"
+        url: /tags/Tagging-Protein/
   - title: Research by Different Index
     children:
     - title: "ResearchByYear"
@@ -56,13 +125,169 @@ docs:
       url: /categories-grid/
     - title: "ByTagsGrid"
       url: /tags-grid/
+
+
+
+# documentation sidebar
+docs4DeepChrome:
   - title: "Rearch in DeepChrome"
     children:
       - title: "EpiGenome"
         url: /tags/EpiGenome/
+      - title: "SeqGenome"
+        url: /tags/SeqGenome/
+      - title: "deepProtein"
+        url: /tags/Protein/
+      - title: "BioText"
+        url: /tags/BioText/
+      - title: "DeepSequence"
+        url: /tags/DeepSequence/
+      - title: "SVM-StringKernel"
+        url: /tags/SVM-StringKernel/
+      - title: "DeepGraph"
+        url: /tags/DeepGraph/
+  - title: Our Four Research Fronts
+    url: /
+    children:
+    - title: "DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "TrustworthyAI"
+      url: /categories/AItrust/
+    - title: "DeepDiscrete"
+      url: /categories/AIself/
+    - title: "Samples2Connectome"
+      url: /categories/AIfastConnectome/
+  - title: Group Information
+    url: /
+    children:
+    - title: "Member"
+      url: /member-page/
+    - title: "News"
+      url: /news/
+    - title: "Toolkits we built"
+      url: /tags/toolkit/
+
+
+docs4TrustworthyAI:
+  - title: "Rearch in TrustworthyAI"
+    url: /categories/AItrust/
+    children:
+      - title: "1-Evasion"
+        url: /tags/1-Evasion/
+      - title: "2-Detection"
+        url: /tags/2-Detection/
+      - title: "3-Defense"
+        url: /tags/3-Defense/
+      - title: "4-VisualizeBench"
+        url: /tags/4-VisualizeBench/
+      - title: "5-Theory"
+        url: /tags/5-Theory/
+      - title: "6-Interpret"
+        url: /tags/6-Interpret/
+  - title: Our Four Research Fronts
+    url: /
+    children:
+    - title: "DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "TrustworthyAI"
+      url: /categories/AItrust/
+    - title: "DeepDiscrete"
+      url: /categories/AIself/
+    - title: "Samples2Connectome"
+      url: /categories/AIfastConnectome/
+  - title: Group Information
+    url: /
+    children:
+    - title: "Member"
+      url: /member-page/
+    - title: "News"
+      url: /news/
+    - title: "Toolkits we built"
+      url: /tags/toolkit/
 
 
 
+docs4Samples2Connectome:
+  - title: "Rearch in Samples2Connectome"
+    children:
+      - title: "MultiGraphs"
+        url: /tags/MultiGraphs/
+      - title: "DiffGraph"
+        url: /tags/DiffGraph/
+      - title: "ExtraPrior"
+        url: /tags/ExtraPrior/
+      - title: "DiscriminativeGraph"
+        url: /tags/DiscriminativeGraph/
+      - title: "more-MRF"
+        url: /tags/more-MRF/
+      - title: "Tutorials"
+        url: /tags/Tutorials/
+  - title: Our Four Research Fronts
+    url: /
+    children:
+    - title: "DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "TrustworthyAI"
+      url: /categories/AItrust/
+    - title: "DeepDiscrete"
+      url: /categories/AIself/
+    - title: "Samples2Connectome"
+      url: /categories/AIfastConnectome/
+  - title: Group Information
+    url: /
+    children:
+    - title: "Member"
+      url: /member-page/
+    - title: "News"
+      url: /news/
+    - title: "Toolkits we built"
+      url: /tags/toolkit/
+
+
+
+
+docs4DeepDiscrete:
+  - title: "Rearch in DeepDiscrete"
+    children:
+      - title: "Learn-Dictionary"
+        url: /tags/Learn-Dictionary/
+      - title: "Generate-Text"
+        url: /tags/Generate-Text/
+      - title: "Semi-Label-Text"
+        url: /tags/Semi-Label-Text/
+      - title: "Predict-Graph"
+        url: /tags/Predict-Graph/
+      - title: "Rank-Metric"
+        url: /tags/Rank-Metric/
+      - title: "Represent-ngram"
+        url: /tags/Represent-ngram/
+      - title: "Tagging-Genome"
+        url: /tags/Tagging-Genome/
+      - title: "Tagging-Protein"
+        url: /tags/Tagging-Protein/
+  - title: Our Four Research Fronts
+    url: /
+    children:
+    - title: "DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "TrustworthyAI"
+      url: /categories/AItrust/
+    - title: "DeepDiscrete"
+      url: /categories/AIself/
+    - title: "Samples2Connectome"
+      url: /categories/AIfastConnectome/
+  - title: Group Information
+    url: /
+    children:
+    - title: "Member"
+      url: /member-page/
+    - title: "News"
+      url: /news/
+    - title: "Toolkits we built"
+      url: /tags/toolkit/
+
+
+      
 # example navigation
 foo:
   - title: "Parent Link 1"

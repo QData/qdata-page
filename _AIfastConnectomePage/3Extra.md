@@ -1,5 +1,6 @@
 ---
-layout: tags
 title: ExtraPrior
-order: "3"
+layout: tag
+permalink: /tags/ExtraPrior/
+taxonomy: ExtraPrior
 ---

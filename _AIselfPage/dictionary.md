@@ -1,6 +1,7 @@
 ---
-layout: tags
+layout: tag
+permalink: /tags/Learn-Dictionary/
+taxonomy: Learn-Dictionary
 title: Learn-Dictionary
-order: "9"
 description: This categoy of tools aims to extract a dictionary of sub-patterns from data.  
 ---

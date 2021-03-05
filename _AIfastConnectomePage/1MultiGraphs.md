@@ -1,5 +1,7 @@
 ---
-layout: tags
 title: MultiGraphs
-order: "1"
+layout: tag
+permalink: /tags/MultiGraphs/
+taxonomy: MultiGraphs
+description: MultiGraphs. 
 ---

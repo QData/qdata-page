@@ -103,6 +103,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/qdata"
+    - label: "Publications"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cs.virginia.edu/yanjun/papers.htm"
 
 
 # Site Footer
@@ -189,6 +192,7 @@ defaults:
       comments: false
       share: true
       related: true
+      classes: wide
       sidebar:
         nav: "docs"
   # _pages
@@ -198,7 +202,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false 
+      classes: wide
       sidebar:
         nav: "docs"
   #- _AqgroupPage
@@ -208,7 +213,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      classes: wide
+      read_time: false 
       sidebar:
         nav: "docs"
   #- _AIbiomedPage
@@ -218,9 +224,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false 
+      classes: wide
       sidebar:
-        nav: "docs"
+        nav: "docs4DeepChrome"
   #- _AIfastConnectomePage
   - scope:
       path: "_AIfastConnectomePage"
@@ -228,9 +235,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false 
+      classes: wide
       sidebar:
-        nav: "docs"
+        nav: "docs4Samples2Connectome"
   #- _AIselfPage
   - scope:
       path: "_AIselfPage"
@@ -238,9 +246,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false 
+      classes: wide
       sidebar:
-        nav: "docs"
+        nav: "docs4DeepDiscrete"
   #- _AItrustPage
   - scope:
       path: "_AItrustPage"
@@ -248,9 +257,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      classes: wide
+      read_time: false 
       sidebar:
-        nav: "docs"
+        nav: "docs4TrustworthyAI"
 
 
 

@@ -1,5 +1,6 @@
 ---
-layout: tags
 title: more-MRF
-order: "9"
+layout: tag
+permalink: /tags/more-MRF/
+taxonomy: more-MRF
 ---

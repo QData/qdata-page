@@ -1,5 +1,6 @@
 ---
-layout: tags
-title: Discriminative
-order: "9"
+title: DiscriminativeGraph
+layout: tag
+permalink: /tags/DiscriminativeGraph/
+taxonomy: DiscriminativeGraph
 ---
