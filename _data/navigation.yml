@@ -11,6 +11,8 @@ main:
     url: /categories/AIfastConnectome/
   - title: "Member"
     url: /member-page/
+  - title: "Publication List"
+    url: "http://www.cs.virginia.edu/yanjun/papers.htm"
   - title: "News"
     url: /news/
   - title: "ResearchByYear"
@@ -19,7 +21,7 @@ main:
     url: /categories-grid/
   - title: "ByTagsGrid"
     url: /tags-grid/
-  - title: "allProjects"
+  - title: "allBlogs"
     url: /post-feed/
 
 
@@ -40,6 +42,8 @@ docs:
     children:
     - title: "Member"
       url: /member-page/
+    - title: "Publication List"
+      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -162,6 +166,8 @@ docs4DeepChrome:
     children:
     - title: "Member"
       url: /member-page/
+    - title: "Publication List"
+      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -200,6 +206,8 @@ docs4TrustworthyAI:
     children:
     - title: "Member"
       url: /member-page/
+    - title: "Publication List"
+      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -238,6 +246,8 @@ docs4Samples2Connectome:
     children:
     - title: "Member"
       url: /member-page/
+    - title: "Publication List"
+      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -281,6 +291,8 @@ docs4DeepDiscrete:
     children:
     - title: "Member"
       url: /member-page/
+    - title: "Publication List"
+      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"

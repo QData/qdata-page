@@ -23,11 +23,25 @@ feature_row:
     url: "/categories/AItrust/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/connect.png
+  - image_path: /assets/images/connect3.png
     alt: "Samples2Connectomes"
     title: "Samples to Connectomes"
     excerpt: "Graph Learning Tools we have developed for discovering connectomes from samples."
     url: "/categories/AIfastConnectome/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+  - image_path: /assets/images/connect.png
+    alt: "deep discrete"
+    title: "DL on Discrete Data"
+    excerpt: "Deep Learning with Weak Supervision we have developed for discrete data."
+    url: "/categories/AIself/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "Our Publications"
+    title: "Our Publications"
+    excerpt: "A list of our publications."
+    url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
@@ -35,11 +49,3 @@ feature_row:
 
 {% include feature_row  %}
 
-<!--   - image_path: /assets/images/mm-free-feature.png
-    alt: "deep discrete"
-    title: "DL on Discrete Data"
-    excerpt: "Deep Learning with Weak Supervision we have developed for discrete data."
-    url: "/categories/AIself/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
- -->
