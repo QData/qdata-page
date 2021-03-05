@@ -11,17 +11,17 @@ minimal_mistakes_skin    : "air" # "default"  "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qdata Team Research Summary Site"
+title                    : "Qdata Team Research Blog Site"
 title_separator          : "-"
-subtitle                 : "Qdata Team Site"
+subtitle                 : "Qdata Research Blog"
 name                     : &name "Qdata" # &name is a YAML anchor which can be *referenced later
-description              : &description "Research Summary for Qdata Team in the University of Virignia Computer Science Department."
+description              : &description "Research Blogs of Qdata Team in the University of Virignia Computer Science Department."
 url                      : https://qdata.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/qdata-page/" # the subpath of your site, e.g. "/blog"
 repository               : "qdata/qdata-page"
 teaser                   : "/assets/tempIcon.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/tempIcon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Qdata Team Site" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Qdata Research" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -91,7 +91,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/bio-photo.png"
-  bio              : "Research Summary of UVA Qdata team"
+  bio              : "Research Summary Blogs from UVA Qdata team"
   location         : #"NY"
   links:
     - label: "HomePage"
