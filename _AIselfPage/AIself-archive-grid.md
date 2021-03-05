@@ -2,7 +2,7 @@
 layout: category
 permalink: /categories/AIself/
 taxonomy: AIself
-title: Deep Learning's Generalization, Especially on structured Type
+title: Deep Learning's Generalization, Especially on structured discrete data
 entries_layout: grid
 classes: wide
 desc: 'a suite of deep learning tools with weak supervisions that we have developed for structured data'
