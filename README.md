@@ -9,3 +9,7 @@
   + `_post`
 
 - I adapt and revise the `_page` by adding our legacy sites / each site with a special `_page` folder to organize their posts. 
+
+
+- Team, for any  changes you prefer to add, please fork and PR!  Before PR, please make sure everything works fine locally 
+  + (Local build via running `bundle exec jekyll serve`)
