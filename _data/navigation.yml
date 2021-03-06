@@ -15,11 +15,11 @@ main:
     url: "http://www.cs.virginia.edu/yanjun/papers.htm"
   - title: "News"
     url: /news/
-  - title: "ResearchByYear"
+  - title: "Research-ByYear"
     url: /posts/
-  - title: "ByCategoriesGrid"
+  - title: "Research-ByCategory"
     url: /categories-grid/
-  - title: "ByTagsGrid"
+  - title: "Research-ByTags"
     url: /tags-grid/
   - title: "Journal Club- Algorithm"
     url: "https://qdata.github.io/deep2Read/"
