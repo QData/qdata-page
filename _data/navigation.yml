@@ -9,23 +9,23 @@ main:
     url: /categories/AIself/
   - title: "Samples2Connectome"
     url: /categories/AIfastConnectome/
-  - title: "Member"
+  - title: "Group-Member"
     url: /member-page/
+  - title: "Group-News"
+    url: /news/
   - title: "Publication List"
     url: "http://www.cs.virginia.edu/yanjun/papers.htm"
-  - title: "News"
-    url: /news/
   - title: "Research-ByYear"
     url: /posts/
   - title: "Research-ByCategory"
     url: /categories-grid/
   - title: "Research-ByTags"
     url: /tags-grid/
-  - title: "Journal Club- Algorithm"
+  - title: "JournalClub-Algorithm"
     url: "https://qdata.github.io/deep2Read/"
-  - title: "Journal Club- Data"
+  - title: "JournalClub-Data"
     url: "https://qdata.github.io/data2Read/"
-  - title: "Journal Club- Undergraduate"
+  - title: "JournalClub-Undergraduate"
     url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
   - title: "allBlogs"
     url: /post-feed/
@@ -136,9 +136,9 @@ docs:
     children:
     - title: "ResearchByYear"
       url: /posts/
-    - title: "ByCategoriesGrid"
+    - title: "Research-ByCategory"
       url: /categories-grid/
-    - title: "ByTagsGrid"
+    - title: "Research-ByTags"
       url: /tags-grid/
 
 
