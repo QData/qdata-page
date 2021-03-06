@@ -21,10 +21,17 @@ main:
     url: /categories-grid/
   - title: "ByTagsGrid"
     url: /tags-grid/
+  - title: "Journal Club- Algorithm"
+    url: "https://qdata.github.io/deep2Read/"
+  - title: "Journal Club- Data"
+    url: "https://qdata.github.io/data2Read/"
+  - title: "Journal Club- Undergraduate"
+    url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
   - title: "allBlogs"
     url: /post-feed/
   - title: "thisGithub"
     url: "https://github.com/QData/qdata-page/"
+
 
 
 
