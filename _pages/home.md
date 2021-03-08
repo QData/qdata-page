@@ -9,7 +9,7 @@ header:
 excerpt: >
     UVA Machine Learning QData team focuses on developing novel machine-learning techniques and their important applications, especially those with medical impacts. We strive toward building and sharing open-source research toolkits and benchmark datasets. We have four current research fronts: <br>1. Trustworthy AI; <br>2. DL generalization; <br>3. DeepChrome; <br>4. Samples to Connectomes<br />
 feature_row:
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/dna.png
     alt: "deepChrome"
     title: "Deep Learning on BioMed"
     excerpt: "Deep learning tools we have developed for learning patterns and making predictions on biomedical data (mostly from functional genomics)."
@@ -38,13 +38,21 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/mm-free-feature.png
+    alt: "Our Toolkits"
+    title: "Our Toolkits"
+    excerpt: "A list of Toolkits we have built."
+    url: "https://github.com/qdata"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+  - image_path: /assets/images/mm-responsive-feature.png
     alt: "Our Publications"
     title: "Our Publications"
-    excerpt: "A list of our publications."
+    excerpt: "A list of our publications.."
     url: "http://www.cs.virginia.edu/yanjun/papers.htm"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
 
 
 {% include feature_row  %}
