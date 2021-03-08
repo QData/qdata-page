@@ -9,10 +9,16 @@ main:
     url: /categories/AIself/
   - title: "Samples2Connectome"
     url: /categories/AIfastConnectome/
-  - title: "Group-Member"
-    url: /member-page/
   - title: "Group-News"
     url: /news/
+  - title: "Group-Member"
+    url: /member-page/
+  - title: "Group-Github"
+    url: "https://github.com/qdata"
+  - title: "Group-Videos"
+    url:  "https://www.youtube.com/channel/UCHMYETgeGbNHVHLidZSV8BQ"
+  - title: "Group-Capstones"
+    url: "https://github.com/Qdata4Capstone"
   - title: "Publication List"
     url: "http://www.cs.virginia.edu/yanjun/papers.htm"
   - title: "Research-ByYear"
@@ -31,8 +37,6 @@ main:
     url: /post-feed/
   - title: "thisGithub"
     url: "https://github.com/QData/qdata-page/"
-
-
 
 
 
@@ -134,7 +138,7 @@ docs:
         url: /tags/Tagging-Protein/
   - title: Research by Different Index
     children:
-    - title: "ResearchByYear"
+    - title: "Research-ByYear"
       url: /posts/
     - title: "Research-ByCategory"
       url: /categories-grid/
@@ -183,6 +187,7 @@ docs4DeepChrome:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
+
 
 
 docs4TrustworthyAI:
@@ -310,23 +315,4 @@ docs4DeepDiscrete:
       url: /tags/toolkit/
 
 
-      
-# example navigation
-foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-
+    
