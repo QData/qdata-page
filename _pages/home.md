@@ -9,13 +9,13 @@ header:
 excerpt: >
     UVA Machine Learning QData team focuses on developing novel machine-learning techniques and their important applications, especially those with medical impacts. We strive toward building and sharing open-source research toolkits and benchmark datasets. We have four current research fronts: <br>1. Trustworthy AI; <br>2. DL generalization; <br>3. DeepChrome; <br>4. Samples to Connectomes<br />
 feature_row:
-  - image_path: /assets/images/dna.png
-    alt: "deepChrome"
-    title: "Deep Learning on BioMed"
-    excerpt: "Deep learning tools we have developed for learning patterns and making predictions on biomedical data (mostly from functional genomics)."
-    url: "/categories/AIbiomed/"
+  - image_path: /assets/images/connect.png
+    alt: "deep Generalization"
+    title: "DL Generalization on Structured Data"
+    excerpt: "Deep Learning tools with Weak Supervision we have developed for structured data."
+    url: "/categories/AIself/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Learn more"      
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "trustworthy deep learning"
     title: "Trustworthy AI"
@@ -23,18 +23,18 @@ feature_row:
     url: "/categories/AItrust/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/dna.png
+    alt: "deepChrome"
+    title: "Deep Learning on BioMed"
+    excerpt: "Deep learning tools we have developed for learning patterns and making predictions on biomedical data (mostly from functional genomics)."
+    url: "/categories/AIbiomed/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/connect3.png
     alt: "Samples2Connectomes"
     title: "Samples to Connectomes"
     excerpt: "Graph Learning Tools we have developed for discovering connectomes from samples."
     url: "/categories/AIfastConnectome/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
-  - image_path: /assets/images/connect.png
-    alt: "deep Generalization"
-    title: "DL Generalization on Structured Data"
-    excerpt: "Deep Learning tools with Weak Supervision we have developed for structured data."
-    url: "/categories/AIself/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/mm-free-feature.png
