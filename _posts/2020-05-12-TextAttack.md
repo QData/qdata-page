@@ -47,4 +47,4 @@ It is a Python framework for adversarial attacks, data augmentation, and model t
 ### Support or Contact
 
 
-Having trouble with our tools? Please [contact Ji Gao](mailto:jg6yd@virginia.edu) and we’ll help you sort it out.
+Having trouble with our tools? Please [contact Dr.Qi](https://github.com/QData/TextAttack) and we’ll help you sort it out.
