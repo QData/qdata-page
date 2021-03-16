@@ -75,6 +75,7 @@ docs:
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: "Rearch in TrustworthyAI"
+    url: /categories/AItrust/
     children:
       - title: "1-Evasion"
         url: /tags/1-Evasion/
@@ -89,6 +90,7 @@ docs:
       - title: "6-Interpret"
         url: /tags/6-Interpret/
   - title: "Rearch in DeepChrome"
+    url: /categories/AIbiomed/
     children:
       - title: "EpiGenome"
         url: /tags/EpiGenome/
@@ -105,6 +107,7 @@ docs:
       - title: "DeepGraph"
         url: /tags/DeepGraph/
   - title: "Rearch in Samples2Connectome"
+    url: /categories/AIfastConnectome/
     children:
       - title: "MultiGraphs"
         url: /tags/MultiGraphs/
@@ -119,6 +122,7 @@ docs:
       - title: "Tutorials"
         url: /tags/Tutorials/
   - title: "Rearch in DeepGeneralization"
+    url: /categories/AIself/
     children:
       - title: "Learn-Dictionary"
         url: /tags/Learn-Dictionary/
@@ -150,6 +154,7 @@ docs:
 # documentation sidebar
 docs4DeepChrome:
   - title: "Rearch in DeepChrome"
+    url: /categories/AIbiomed/
     children:
       - title: "EpiGenome"
         url: /tags/EpiGenome/
@@ -233,6 +238,7 @@ docs4TrustworthyAI:
 
 docs4Samples2Connectome:
   - title: "Rearch in Samples2Connectome"
+    url: /categories/AIfastConnectome/
     children:
       - title: "MultiGraphs"
         url: /tags/MultiGraphs/
@@ -274,6 +280,7 @@ docs4Samples2Connectome:
 
 docs4DeepDiscrete:
   - title: "Rearch in DeepGeneralization"
+    url: /categories/AIself/
     children:
       - title: "Learn-Dictionary"
         url: /tags/Learn-Dictionary/
