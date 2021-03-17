@@ -31,7 +31,7 @@ the need for complex linguistic features.
 ![ask1]({{ site.baseurl }}/pic/ask1.png){:class="img-responsive"}
 ![ask2]({{ site.baseurl }}/pic/ask2.png){:class="img-responsive"}
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://www.cs.cmu.edu/~qyj/papersA08/ecml10-Talk-online.pdf" width="600" height="395">
+
 
 ### Paper2: Semi-Supervised Convolution Graph Kernels for Relation Extraction 
 + [PDF](http://www.cs.cmu.edu/%7Eqyj/papersA08/SSCG-sdm11.pdf)

@@ -11,7 +11,7 @@ desc: 'A suite of tools we designed for making machine learning secure and trust
     This front adapts from our legacy website <a href="http://www.securemachinelearning.org/">http://TrustworthyMachineLearning.org/</a>  and introduces updates of  a suite of tools
   we have designed for making machine learning secure and trustworthy. This project involves toolboxes for five main tasks
   (organized as entries in the navigation menu).
-  Feel free to submit <a href="https://github.com/QData/secureml-web">pull requests</a> when you find my typos.
+  Please feel free to email me when you find my typos. 
 
 </div>
 <br>

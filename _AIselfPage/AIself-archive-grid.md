@@ -12,7 +12,7 @@ desc: 'a suite of deep learning tools with weak supervisions that we have develo
 <div>
     This front adapts from our legacy website <a href="http://deeplearning4discrete.net/">deeplearning4discrete.net</a>  and introduces a suite of
     deep learning tools we have developed for learning patterns and making predictions on structured 
-    data, like text, graph, or sets.  Feel free to submit <a href="https://github.com/QData/deeplearning4discrete-web">pull requests</a> when you find my typos.
+    data, like text, graph, or sets.  Please feel free to email me when you find my typos. 
 
 </div>
 
