@@ -51,6 +51,41 @@ debugs:
 
 
 # documentation sidebar
+docsshort:
+  - title: Group Information
+    url: /
+    children:
+    - title: "Member"
+      url: /member-page/
+    - title: "Publication List"
+      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+    - title: "News"
+      url: /news/
+    - title: "Toolkits we built"
+      url: /tags/toolkit/
+  - title: Our Four Research Fronts
+    url: /
+    children:
+    - title: "DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "TrustworthyAI"
+      url: /categories/AItrust/
+    - title: "DeepGeneralization"
+      url: /categories/AIself/
+    - title: "Samples2Connectome"
+      url: /categories/AIfastConnectome/
+  - title: Research by Different Index
+    children:
+    - title: "Research-ByYear"
+      url: /posts/
+    - title: "Research-ByCategory"
+      url: /categories-grid/
+    - title: "Research-ByTags"
+      url: /tags-grid/
+
+
+
+# documentation sidebar
 docs:
   - title: Group Information
     url: /

@@ -194,7 +194,7 @@ defaults:
       related: true
       classes: wide
       sidebar:
-        nav: "docs"
+        nav: "docsshort"
   # _pages
   - scope:
       path: "_pages"
