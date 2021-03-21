@@ -7,7 +7,6 @@ tag:
 - Protein
 - DeepSequence 
 - Semi-Label-Text
-- Tagging-Protein
 - Represent-ngram
 ---
 

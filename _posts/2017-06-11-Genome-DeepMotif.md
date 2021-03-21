@@ -8,7 +8,6 @@ tag:
 - SeqGenome
 - DeepSequence
 - 6-Interpret
-- Tagging-Genome
 - ToolKit
 ---
 <a name="demo"></a>

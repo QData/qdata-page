@@ -9,7 +9,6 @@ tag:
 - DeepSequence
 - 6-Interpret
 - Rank-Metric
-- Tagging-Genome
 ---
 
 <a name="pmn"></a>

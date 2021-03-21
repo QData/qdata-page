@@ -8,7 +8,6 @@ tag:
 - EpiGenome
 - DeepSequence
 - 6-Interpret
-- Tagging-Genome
 - ToolKit
 ---
 

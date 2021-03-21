@@ -8,7 +8,6 @@ tag:
 - SeqGenome
 - DeepSequence
 - DeepGraph
-- Tagging-Genome
 - Predict-Graph 
 ---
 

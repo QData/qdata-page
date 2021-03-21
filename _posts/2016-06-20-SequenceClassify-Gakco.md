@@ -8,7 +8,6 @@ tag:
 - SeqGenome
 - SVM-StringKernel
 - Represent-ngram
-- Tagging-Genome
 ---
 
 <a name="gakco"></a>
