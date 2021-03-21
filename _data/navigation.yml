@@ -109,9 +109,19 @@ docs:
       url: /categories/AIself/
     - title: "Samples2Connectome"
       url: /categories/AIfastConnectome/
+  - title: Research by Different Index
+    children:
+    - title: "Research-ByYear"
+      url: /posts/
+    - title: "Research-ByCategory"
+      url: /categories-grid/
+    - title: "Research-ByTags"
+      url: /tags-grid/
   - title: "Rearch in TrustworthyAI"
     url: /categories/AItrust/
     children:
+      - title: "TextAttack"
+        url: /tags/textattack/
       - title: "1-Evasion"
         url: /tags/1-Evasion/
       - title: "2-Detection"
@@ -135,12 +145,14 @@ docs:
         url: /tags/Protein/
       - title: "BioText"
         url: /tags/BioText/
-      - title: "DeepSequence"
+      - title: "DeepBioSequence"
         url: /tags/DeepSequence/
       - title: "SVM-StringKernel"
         url: /tags/SVM-StringKernel/
-      - title: "DeepGraph"
+      - title: "DeepBioGraph"
         url: /tags/DeepGraph/
+      - title: "fast-gkm-svm"
+        url: /tags/fastsk/
   - title: "Rearch in Samples2Connectome"
     url: /categories/AIfastConnectome/
     children:
@@ -175,14 +187,6 @@ docs:
         url: /tags/Tagging-Genome/
       - title: "Tagging-Protein"
         url: /tags/Tagging-Protein/
-  - title: Research by Different Index
-    children:
-    - title: "Research-ByYear"
-      url: /posts/
-    - title: "Research-ByCategory"
-      url: /categories-grid/
-    - title: "Research-ByTags"
-      url: /tags-grid/
 
 
 
@@ -199,12 +203,14 @@ docs4DeepChrome:
         url: /tags/Protein/
       - title: "BioText"
         url: /tags/BioText/
-      - title: "DeepSequence"
+      - title: "DeepBioSequence"
         url: /tags/DeepSequence/
       - title: "SVM-StringKernel"
         url: /tags/SVM-StringKernel/
-      - title: "DeepGraph"
+      - title: "DeepBioGraph"
         url: /tags/DeepGraph/
+      - title: "fast-gkm-svm"
+        url: /tags/fastsk/
   - title: Our Four Research Fronts
     url: /
     children:
@@ -229,11 +235,12 @@ docs4DeepChrome:
       url: /tags/toolkit/
 
 
-
 docs4TrustworthyAI:
   - title: "Rearch in TrustworthyAI"
     url: /categories/AItrust/
     children:
+      - title: "TextAttack"
+        url: /tags/textattack/
       - title: "1-Evasion"
         url: /tags/1-Evasion/
       - title: "2-Detection"
@@ -311,8 +318,6 @@ docs4Samples2Connectome:
       url: /tags/toolkit/
 
 
-
-
 docs4DeepDiscrete:
   - title: "Rearch in DeepGeneralization"
     url: /categories/AIself/
@@ -354,7 +359,6 @@ docs4DeepDiscrete:
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
-      url: /tags/toolkit/
-
+      url: /tags/toolkit/ 
 
     

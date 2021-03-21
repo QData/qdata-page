@@ -5,6 +5,8 @@ title: Blackbox Generation of Adversarial Text Sequences
 tag:
 - 1-Evasion
 - 4-VisualizeBench
+- textattack
+- Generate-Text 
 ---
 
 <a name="wordbug"></a>

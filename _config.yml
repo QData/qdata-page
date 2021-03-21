@@ -194,7 +194,7 @@ defaults:
       related: true
       classes: wide
       sidebar:
-        nav: "docsshort"
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
@@ -222,6 +222,7 @@ defaults:
       path: "_AIbiomedPage"
       type: pages
     values:
+      entries_layout: grid
       layout: single
       author_profile: true
       read_time: false 
@@ -233,6 +234,7 @@ defaults:
       path: "_AIfastConnectomePage"
       type: pages
     values:
+      entries_layout: grid
       layout: single
       author_profile: true
       read_time: false 
@@ -244,6 +246,7 @@ defaults:
       path: "_AIselfPage"
       type: pages
     values:
+      entries_layout: grid
       layout: single
       author_profile: true
       read_time: false 
@@ -255,6 +258,7 @@ defaults:
       path: "_AItrustPage"
       type: pages
     values:
+      entries_layout: grid
       layout: single
       author_profile: true
       classes: wide
