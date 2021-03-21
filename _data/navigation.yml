@@ -137,24 +137,20 @@ docs:
   - title: "Rearch in DeepChrome"
     url: /categories/AIbiomed/
     children:
-      - title: "Tagging-Genome"
-        url: /tags/Tagging-Genome/
-      - title: "Tagging-Protein"
-        url: /tags/Tagging-Protein/
-      - title: "Tagging-BioSequence"
-        url: /tags/DeepSequence/
       - title: "fast-gkm-svm"
         url: /tags/fastsk/
-      - title: "onBioGraph"
-        url: /tags/DeepGraph/
-      - title: "onEpiGenome"
+      - title: "DL4EpiGenome"
         url: /tags/EpiGenome/
-      - title: "onSeqGenome"
+      - title: "DL4SeqGenome"
         url: /tags/SeqGenome/
-      - title: "onProtein"
+      - title: "DL4BioGraph"
+        url: /tags/DeepGraph/
+      - title: "DL4SeqProtein"
         url: /tags/Protein/
-      - title: "onBioText"
+      - title: "DL4BioText"
         url: /tags/BioText/
+      - title: "DL4BioSequence"
+        url: /tags/DeepSequence/
       - title: "SVM-StringKernel"
         url: /tags/SVM-StringKernel/
   - title: "Rearch in Samples2Connectome"
@@ -195,24 +191,20 @@ docs4DeepChrome:
   - title: "Rearch in DeepChrome"
     url: /categories/AIbiomed/
     children:
-      - title: "Tagging-Genome"
-        url: /tags/Tagging-Genome/
-      - title: "Tagging-Protein"
-        url: /tags/Tagging-Protein/
-      - title: "Tagging-BioSequence"
-        url: /tags/DeepSequence/
       - title: "fast-gkm-svm"
         url: /tags/fastsk/
-      - title: "onBioGraph"
-        url: /tags/DeepGraph/
-      - title: "onEpiGenome"
+      - title: "DL4EpiGenome"
         url: /tags/EpiGenome/
-      - title: "onSeqGenome"
+      - title: "DL4SeqGenome"
         url: /tags/SeqGenome/
-      - title: "onProtein"
+      - title: "DL4BioGraph"
+        url: /tags/DeepGraph/
+      - title: "DL4SeqProtein"
         url: /tags/Protein/
-      - title: "onBioText"
+      - title: "DL4BioText"
         url: /tags/BioText/
+      - title: "DL4BioSequence"
+        url: /tags/DeepSequence/
       - title: "SVM-StringKernel"
         url: /tags/SVM-StringKernel/
   - title: Our Four Research Fronts
