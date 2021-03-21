@@ -137,22 +137,26 @@ docs:
   - title: "Rearch in DeepChrome"
     url: /categories/AIbiomed/
     children:
-      - title: "EpiGenome"
-        url: /tags/EpiGenome/
-      - title: "SeqGenome"
-        url: /tags/SeqGenome/
-      - title: "deepProtein"
-        url: /tags/Protein/
-      - title: "BioText"
-        url: /tags/BioText/
-      - title: "DeepBioSequence"
+      - title: "Tagging-Genome"
+        url: /tags/Tagging-Genome/
+      - title: "Tagging-Protein"
+        url: /tags/Tagging-Protein/
+      - title: "Tagging-BioSequence"
         url: /tags/DeepSequence/
-      - title: "SVM-StringKernel"
-        url: /tags/SVM-StringKernel/
-      - title: "DeepBioGraph"
-        url: /tags/DeepGraph/
       - title: "fast-gkm-svm"
         url: /tags/fastsk/
+      - title: "onBioGraph"
+        url: /tags/DeepGraph/
+      - title: "onEpiGenome"
+        url: /tags/EpiGenome/
+      - title: "onSeqGenome"
+        url: /tags/SeqGenome/
+      - title: "onProtein"
+        url: /tags/Protein/
+      - title: "onBioText"
+        url: /tags/BioText/
+      - title: "SVM-StringKernel"
+        url: /tags/SVM-StringKernel/
   - title: "Rearch in Samples2Connectome"
     url: /categories/AIfastConnectome/
     children:
@@ -183,10 +187,6 @@ docs:
         url: /tags/Rank-Metric/
       - title: "Represent-ngram"
         url: /tags/Represent-ngram/
-      - title: "Tagging-Genome"
-        url: /tags/Tagging-Genome/
-      - title: "Tagging-Protein"
-        url: /tags/Tagging-Protein/
 
 
 
@@ -195,22 +195,26 @@ docs4DeepChrome:
   - title: "Rearch in DeepChrome"
     url: /categories/AIbiomed/
     children:
-      - title: "EpiGenome"
-        url: /tags/EpiGenome/
-      - title: "SeqGenome"
-        url: /tags/SeqGenome/
-      - title: "deepProtein"
-        url: /tags/Protein/
-      - title: "BioText"
-        url: /tags/BioText/
-      - title: "DeepBioSequence"
+      - title: "Tagging-Genome"
+        url: /tags/Tagging-Genome/
+      - title: "Tagging-Protein"
+        url: /tags/Tagging-Protein/
+      - title: "Tagging-BioSequence"
         url: /tags/DeepSequence/
-      - title: "SVM-StringKernel"
-        url: /tags/SVM-StringKernel/
-      - title: "DeepBioGraph"
-        url: /tags/DeepGraph/
       - title: "fast-gkm-svm"
         url: /tags/fastsk/
+      - title: "onBioGraph"
+        url: /tags/DeepGraph/
+      - title: "onEpiGenome"
+        url: /tags/EpiGenome/
+      - title: "onSeqGenome"
+        url: /tags/SeqGenome/
+      - title: "onProtein"
+        url: /tags/Protein/
+      - title: "onBioText"
+        url: /tags/BioText/
+      - title: "SVM-StringKernel"
+        url: /tags/SVM-StringKernel/
   - title: Our Four Research Fronts
     url: /
     children:
@@ -334,10 +338,6 @@ docs4DeepDiscrete:
         url: /tags/Rank-Metric/
       - title: "Represent-ngram"
         url: /tags/Represent-ngram/
-      - title: "Tagging-Genome"
-        url: /tags/Tagging-Genome/
-      - title: "Tagging-Protein"
-        url: /tags/Tagging-Protein/
   - title: Our Four Research Fronts
     url: /
     children:
