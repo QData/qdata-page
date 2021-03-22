@@ -1,8 +1,6 @@
 ---
 categories:
 - AIbiomed
-- AItrust
-- AIself
 title: AttentiveChrome-Deep Attention Model to Understand Gene Regulation by Selective Attention on Chromatin
 tag:
 - EpiGenome

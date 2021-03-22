@@ -5,6 +5,7 @@ title: TSK- Transfer String Kernel for Cross-Context DNA-Protein Binding Predict
 tag:  
 - SeqGenome
 - SVM-StringKernel
+- multi-transfer
 ---
 
 

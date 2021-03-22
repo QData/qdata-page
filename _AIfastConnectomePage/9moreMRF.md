@@ -1,6 +1,6 @@
 ---
-title: more-MRF
+title: Graph-generative
 layout: tag
-permalink: /tags/more-MRF/
-taxonomy: more-MRF
+permalink: /tags/Graph-generative/
+taxonomy: Graph-generative
 ---

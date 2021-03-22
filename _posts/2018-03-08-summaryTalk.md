@@ -4,6 +4,7 @@ categories:
 title: My Summary Talk about DeepChrome-AttentiveChrome-DeepMotif
 tag:
 - Tutorials 
+- 6-Interpret
 ---
 Here are the slides of lecture talks I gave at [UCLA CGWI](http://computationalgenomics.bioinformatics.ucla.edu/programs/2018-cgwi/2018-cgwi-schedule/) and [NLM-CBB seminar](https://www.ncbi.nlm.nih.gov/CBBresearch/Seminar/) about our deep learning tools: DeepChrome, AttentiveChrome and DeepMotif.
 

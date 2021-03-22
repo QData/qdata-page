@@ -2,7 +2,6 @@
 categories:
 - AIbiomed
 - AItrust
-- AIself
 title: Deep Motif Dashboard- Visualizing and Understanding Genomic Sequences Using Deep Neural Networks
 tag:
 - SeqGenome

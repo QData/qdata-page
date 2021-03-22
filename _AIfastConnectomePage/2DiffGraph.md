@@ -1,6 +1,6 @@
 ---
 layout: tag
-permalink: /tags/DiffGraph/
-taxonomy: DiffGraph
-title: DiffGraph
+permalink: /tags/diff-Graph-generative/
+taxonomy: diff-Graph-generative
+title: diff-Graph-generative
 ---

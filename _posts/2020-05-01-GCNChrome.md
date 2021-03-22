@@ -1,14 +1,12 @@
 ---
 categories:
 - AIbiomed
-- AIself
 title: Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data
 tag:
 - EpiGenome
 - SeqGenome
 - DeepSequence
-- DeepGraph
-- Predict-Graph 
+- BioGraph
 ---
 
 <a name="lamp"></a>

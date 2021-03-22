@@ -7,7 +7,7 @@ tag:
 - BioText
 - SVM-StringKernel
 - DeepSequence
-- Semi-Label-Text 
+- Semi-SelfLabel 
 - Represent-ngram
 ---
 

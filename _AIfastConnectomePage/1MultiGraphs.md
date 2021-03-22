@@ -1,7 +1,7 @@
 ---
-title: MultiGraphs
+title: multi-Graph-generative
 layout: tag
-permalink: /tags/MultiGraphs/
-taxonomy: MultiGraphs
-description: MultiGraphs. 
+permalink: /tags/multi-Graph-generative/
+taxonomy: multi-Graph-generative
+description: multi-Graph-generative. 
 ---

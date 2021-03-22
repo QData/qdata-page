@@ -6,6 +6,8 @@ title:   A unified multitask architecture for predicting local structural proper
 tag:
 - Protein
 - DeepSequence 
+- Semi-SelfLabel 
+- multi-transfer
 ---
 
 <a name="multiprotein"></a>

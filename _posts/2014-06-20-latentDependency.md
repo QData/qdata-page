@@ -3,8 +3,8 @@ categories:
 - AIself
 title:  Learning the Dependency Structure of Latent Factors
 tag:
-- Predict-Graph 
 - Learn-Dictionary
+- Graph-generative
 ---
 
 

@@ -35,6 +35,10 @@ main:
     url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
   - title: "allBlogs"
     url: /post-feed/
+  - title: "Toolkits"
+    url: /tags/toolkit/
+  - title: "Tutorials"
+    url: /tags/Tutorials/
   - title: "thisGithub"
     url: "https://github.com/QData/qdata-page/"
 
@@ -63,6 +67,8 @@ docsshort:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
+    - title: "Tutorials"
+      url: /tags/Tutorials/
   - title: Our Four Research Fronts
     url: /
     children:
@@ -98,6 +104,8 @@ docs:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
+    - title: "Tutorials"
+      url: /tags/Tutorials/
   - title: Our Four Research Fronts
     url: /
     children:
@@ -144,7 +152,7 @@ docs:
       - title: "DL4SeqGenome"
         url: /tags/SeqGenome/
       - title: "DL4BioGraph"
-        url: /tags/DeepGraph/
+        url: /tags/BioGraph/
       - title: "DL4SeqProtein"
         url: /tags/Protein/
       - title: "DL4BioText"
@@ -156,29 +164,31 @@ docs:
   - title: "Rearch in Samples2Connectome"
     url: /categories/AIfastConnectome/
     children:
-      - title: "MultiGraphs"
-        url: /tags/MultiGraphs/
-      - title: "DiffGraph"
-        url: /tags/DiffGraph/
+      - title: "Graph-generative"
+        url: /tags/Graph-generative/
+      - title: "multi-Graph-generative"
+        url: /tags/multi-Graph-generative/
+      - title: "diff-Graph-generative"
+        url: /tags/diff-Graph-generative/
       - title: "ExtraPrior"
         url: /tags/ExtraPrior/
-      - title: "DiscriminativeGraph"
-        url: /tags/DiscriminativeGraph/
-      - title: "more-MRF"
-        url: /tags/more-MRF/
-      - title: "Tutorials"
-        url: /tags/Tutorials/
+      - title: "Graph-discriminative"
+        url: /tags/Graph-discriminative/
+      - title: "Predict-edges"
+        url: /tags/Predict-edges/
   - title: "Rearch in DeepGeneralization"
     url: /categories/AIself/
     children:
+      - title: "RL-Generalization"
+        url: /tags/RL-Generalization/
+      - title: "Semi-SelfLabel"
+        url: /tags/Semi-SelfLabel/
+      - title: "Multi-Transfer"
+        url: /tags/multi-transfer/
       - title: "Learn-Dictionary"
         url: /tags/Learn-Dictionary/
       - title: "Generate-Text"
         url: /tags/Generate-Text/
-      - title: "Semi-Label-Text"
-        url: /tags/Semi-Label-Text/
-      - title: "Predict-Graph"
-        url: /tags/Predict-Graph/
       - title: "Rank-Metric"
         url: /tags/Rank-Metric/
       - title: "Represent-ngram"
@@ -198,7 +208,7 @@ docs4DeepChrome:
       - title: "DL4SeqGenome"
         url: /tags/SeqGenome/
       - title: "DL4BioGraph"
-        url: /tags/DeepGraph/
+        url: /tags/BioGraph/
       - title: "DL4SeqProtein"
         url: /tags/Protein/
       - title: "DL4BioText"
@@ -229,6 +239,8 @@ docs4DeepChrome:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
+    - title: "Tutorials"
+      url: /tags/Tutorials/
 
 
 docs4TrustworthyAI:
@@ -271,6 +283,8 @@ docs4TrustworthyAI:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
+    - title: "Tutorials"
+      url: /tags/Tutorials/
 
 
 
@@ -278,18 +292,18 @@ docs4Samples2Connectome:
   - title: "Rearch in Samples2Connectome"
     url: /categories/AIfastConnectome/
     children:
-      - title: "MultiGraphs"
-        url: /tags/MultiGraphs/
-      - title: "DiffGraph"
-        url: /tags/DiffGraph/
+      - title: "Graph-generative"
+        url: /tags/Graph-generative/
+      - title: "multi-Graph-generative"
+        url: /tags/multi-Graph-generative/
+      - title: "diff-Graph-generative"
+        url: /tags/diff-Graph-generative/
       - title: "ExtraPrior"
         url: /tags/ExtraPrior/
-      - title: "DiscriminativeGraph"
-        url: /tags/DiscriminativeGraph/
-      - title: "more-MRF"
-        url: /tags/more-MRF/
-      - title: "Tutorials"
-        url: /tags/Tutorials/
+      - title: "Graph-discriminative"
+        url: /tags/Graph-discriminative/
+      - title: "Predict-edges"
+        url: /tags/Predict-edges/
   - title: Our Four Research Fronts
     url: /
     children:
@@ -312,20 +326,24 @@ docs4Samples2Connectome:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
+    - title: "Tutorials"
+      url: /tags/Tutorials/
 
 
 docs4DeepDiscrete:
   - title: "Rearch in DeepGeneralization"
     url: /categories/AIself/
     children:
+      - title: "RL-Generalization"
+        url: /tags/RL-Generalization/
+      - title: "Semi-SelfLabel"
+        url: /tags/Semi-SelfLabel/
+      - title: "Multi-Transfer"
+        url: /tags/multi-transfer/
       - title: "Learn-Dictionary"
         url: /tags/Learn-Dictionary/
       - title: "Generate-Text"
         url: /tags/Generate-Text/
-      - title: "Semi-Label-Text"
-        url: /tags/Semi-Label-Text/
-      - title: "Predict-Graph"
-        url: /tags/Predict-Graph/
       - title: "Rank-Metric"
         url: /tags/Rank-Metric/
       - title: "Represent-ngram"
@@ -352,5 +370,7 @@ docs4DeepDiscrete:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/ 
+    - title: "Tutorials"
+      url: /tags/Tutorials/
 
     

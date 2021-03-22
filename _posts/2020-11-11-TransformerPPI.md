@@ -6,9 +6,11 @@ title: Transfer Learning with Motif Transformers for Predicting Protein-Protein 
 tag:
 - Protein
 - DeepSequence 
-- Semi-Label-Text 
-- Predict-Graph
+- Semi-SelfLabel 
+- Predict-edges
+- BioGraph
 - Represent-ngram
+- multi-transfer
 ---
 
 <a name="semippi"></a>

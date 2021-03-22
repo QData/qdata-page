@@ -1,9 +1,10 @@
 ---
 categories:
 - AIbiomed
-title: My tutorial talk at ACM-BCB 2018 
+title: My tutorial talk at ACM-BCB 2018 for Making Deep Learning Understandable
 tag:
 - Tutorials 
+- 6-Interpret
 ---
 
 

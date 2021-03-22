@@ -1,7 +1,6 @@
 ---
 categories:
 - AIbiomed
-- AIself
 title:  GaKCo-SVM- a Fast GApped k-mer string Kernel using COunting
 tag:
 - fast-gkm-svm

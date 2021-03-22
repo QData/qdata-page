@@ -78,7 +78,7 @@ We have designed a suite of novel and fast machine-learning algorithms to identi
 | 5 | [DIFFEE]({{ site.baseurl }}{% link _posts/2017-11-08-diffee.md %}) | Fast~and~Scalable Learning of __**Sparse Changes**__ in High-Dimensional Gaussian Graphical Model Structure | AISTAT18 |
 | 6 | [LaMP]({{ site.baseurl }}{% link _posts/2019-03-01-GNNLaMP.md %}) | Graph Neural Networks for Generating __**Discriminative Relational Graphs**__ among Labels fpr Classification| ECML2018 |
 | 7 | [kDIFFNet]({{ site.baseurl }}{% link _posts/2019-06-18-kDIFFNet.md %}) | Adding Knowledge in DIFFEE Fast~and~Scalable Learning of __**Sparse Changes**__ in High-Dimensional Gaussian Graphical Model Structure | UnderReview |
-| 8 | [C-Trans]({{ site.baseurl }}{% link _posts/2019-06-18-kDIFFNet.md %}) |  General Multi-label Image Classification with  __**Transformers**__ | UnderReview |
+| 8 | [C-Trans]({{ site.baseurl }}{% link _posts/2021-03-01-Ctrans.md %}) |  General Multi-label Image Classification with  __**Transformers**__ | CVPR21 |
 
 
 ![sGGM]({{ site.baseurl }}/pic/jointNetTimeline.png){:class="img-responsive"}

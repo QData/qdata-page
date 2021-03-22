@@ -6,7 +6,7 @@ title: Deep Learning for Character-based Information Extraction on Chinese and P
 tag:
 - Protein
 - DeepSequence 
-- Semi-Label-Text
+- Semi-SelfLabel
 - Represent-ngram
 ---
 

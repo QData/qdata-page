@@ -6,6 +6,8 @@ title:  MUST-CNN- A Multilayer Shift-and-Stitch Deep Convolutional Architecture 
 tag:
 - Protein
 - DeepSequence 
+- Represent-ngram
+- multi-transfer
 ---
 
 <a name="mustcnn"></a>

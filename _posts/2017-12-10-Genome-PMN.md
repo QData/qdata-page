@@ -1,13 +1,11 @@
 ---
 categories:
 - AIbiomed
-- AItrust
 - AIself
 title: Prototype Matching Networks for Large-Scale Multi-label Genomic Sequence Classification
 tag:
 - SeqGenome
 - DeepSequence
-- 6-Interpret
 - Rank-Metric
 ---
 

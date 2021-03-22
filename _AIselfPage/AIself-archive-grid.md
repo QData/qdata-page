@@ -11,15 +11,18 @@ desc: 'a suite of deep learning tools with weak supervisions that we have develo
 
 <div>
     This front adapts from our legacy website <a href="http://deeplearning4discrete.net/">deeplearning4discrete.net</a>  and introduces a suite of
-    deep learning tools we have developed for learning patterns and making predictions on structured 
-    data, like text, graph, or sets.  Please feel free to email me when you find my typos. 
+    deep learning tools we have developed for improve predictors' generalization, especially when on structured 
+    data types like text, graph, or sets.  Please feel free to email me when you find my typos. 
 
 </div>
 
 <hr>
 
+## Background on why Generalization topics of Deep Learning are interesting? 
+Generalization refers to how a machine model adapts properly to new, previously unseen data. 
 
-## Background of Representation Learning and Deep Learning
+
+## Background on Representation Learning and Deep Learning
 
 The performance of machine learning algorithms is largely dependent on the
  data representation (or features) on which they are
