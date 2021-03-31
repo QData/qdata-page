@@ -44,11 +44,32 @@ feature_row:
     url: "https://github.com/qdata"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+  - image_path: /assets/images/tutorials.jpg
+    alt: "Our Tutorials"
+    title: "Our Tutorials"
+    excerpt: "A list of our tutorials talks."
+    url: "/tags/Tutorials/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+  - image_path: /assets/images/reading.png
+    alt: "Our DeepLearning Reading Club"
+    title: "Our DeepLearning Reading Club"
+    excerpt: "Our notes on deep learning."
+    url: "https://qdata.github.io/deep2Read/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Our Publications"
     title: "Our Publications"
     excerpt: "A list of our publications.."
     url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+  - image_path: /assets/images/team.png
+    alt: "Our Members"
+    title: "Our Members"
+    excerpt: "Current and Former team members."
+    url: "/member-page/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
