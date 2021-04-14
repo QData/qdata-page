@@ -12,5 +12,5 @@ tag:
 On April 14 2021, I gave an invited talk at the UVA Human and Machine Intelligence Seminar: 
 
 
-### [TalkSlide]({{ site.baseurl }}pic/20210414-HMI-textAttack.pdf.pdf)
+### [TalkSlide]({{ site.baseurl }}pic/20210414-HMI-textAttack.pdf)
 
