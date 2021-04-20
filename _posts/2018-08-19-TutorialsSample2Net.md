@@ -4,6 +4,7 @@ categories:
 title: A Series of Tutorials We wrote to explain the JointS GM tools we built for extracting connectomes from heterogeneous samples
 tag:
 - Tutorials
+- Graph-generative
 ---
 
 
