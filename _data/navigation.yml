@@ -28,7 +28,7 @@ main:
   - title: "Research-ByTags"
     url: /tags-grid/
   - title: "JournalClub-Algorithm"
-    url: "https://qdata.github.io/deep2Read/"
+    url: "https://qdata.github.io/deep2Read/aReadingsIndexByTags/"
   - title: "JournalClub-Undergraduate"
     url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
   - title: "allBlogs"
