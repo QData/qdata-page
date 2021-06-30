@@ -1,14 +1,30 @@
 
 # main links
 main:
-  - title: "DeepChrome"
-    url: /categories/AIbiomed/
-  - title: "TrustworthyAI"
+  - title: "Research-ByYear"
+    url: /posts/
+  - title: "Research-ByCategory"
+    url: /categories-grid/
+  - title: "Research-ByTags"
+    url: /tags-grid/
+  - title: "Front1-TrustworthyAI"
     url: /categories/AItrust/
-  - title: "DeepGeneralization"
+  - title: "Front2-DeepGeneralization"
     url: /categories/AIself/
-  - title: "Samples2Connectome"
+  - title: "Front3-DeepChrome"
+    url: /categories/AIbiomed/
+  - title: "Front4-Samples2Connectome"
     url: /categories/AIfastConnectome/
+  - title: "JournalClub-Algorithm"
+    url: "https://qdata.github.io/deep2Read/aReadingsIndexByTags/"
+  - title: "JournalClub-Undergraduate"
+    url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
+  - title: "allBlogs"
+    url: /post-feed/
+  - title: "Toolkits"
+    url: /tags/toolkit/
+  - title: "Tutorials"
+    url: /tags/Tutorials/
   - title: "Group-News"
     url: /news/
   - title: "Group-Member"
@@ -21,22 +37,6 @@ main:
     url: "https://github.com/Qdata4Capstone"
   - title: "Publication List"
     url: "http://www.cs.virginia.edu/yanjun/papers.htm"
-  - title: "Research-ByYear"
-    url: /posts/
-  - title: "Research-ByCategory"
-    url: /categories-grid/
-  - title: "Research-ByTags"
-    url: /tags-grid/
-  - title: "JournalClub-Algorithm"
-    url: "https://qdata.github.io/deep2Read/aReadingsIndexByTags/"
-  - title: "JournalClub-Undergraduate"
-    url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
-  - title: "allBlogs"
-    url: /post-feed/
-  - title: "Toolkits"
-    url: /tags/toolkit/
-  - title: "Tutorials"
-    url: /tags/Tutorials/
   - title: "thisGithub"
     url: "https://github.com/QData/qdata-page/"
 
@@ -70,13 +70,13 @@ docsshort:
   - title: Our Four Research Fronts
     url: /
     children:
-    - title: "DeepChrome"
-      url: /categories/AIbiomed/
-    - title: "TrustworthyAI"
+    - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepGeneralization"
+    - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
-    - title: "Samples2Connectome"
+    - title: "Front3-DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "Front4-Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: Research by Different Index
     children:
@@ -107,13 +107,13 @@ docs:
   - title: Our Four Research Fronts
     url: /
     children:
-    - title: "DeepChrome"
-      url: /categories/AIbiomed/
-    - title: "TrustworthyAI"
+    - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepGeneralization"
+    - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
-    - title: "Samples2Connectome"
+    - title: "Front3-DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "Front4-Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: Research by Different Index
     children:
@@ -218,13 +218,13 @@ docs4DeepChrome:
   - title: Our Four Research Fronts
     url: /
     children:
-    - title: "DeepChrome"
-      url: /categories/AIbiomed/
-    - title: "TrustworthyAI"
+    - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepGeneralization"
+    - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
-    - title: "Samples2Connectome"
+    - title: "Front3-DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "Front4-Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: Group Information
     url: /
@@ -262,13 +262,13 @@ docs4TrustworthyAI:
   - title: Our Four Research Fronts
     url: /
     children:
-    - title: "DeepChrome"
-      url: /categories/AIbiomed/
-    - title: "TrustworthyAI"
+    - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepGeneralization"
+    - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
-    - title: "Samples2Connectome"
+    - title: "Front3-DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "Front4-Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: Group Information
     url: /
@@ -305,13 +305,13 @@ docs4Samples2Connectome:
   - title: Our Four Research Fronts
     url: /
     children:
-    - title: "DeepChrome"
-      url: /categories/AIbiomed/
-    - title: "TrustworthyAI"
+    - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepGeneralization"
+    - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
-    - title: "Samples2Connectome"
+    - title: "Front3-DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "Front4-Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: Group Information
     url: /
@@ -349,13 +349,13 @@ docs4DeepDiscrete:
   - title: Our Four Research Fronts
     url: /
     children:
-    - title: "DeepChrome"
-      url: /categories/AIbiomed/
-    - title: "TrustworthyAI"
+    - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
-    - title: "DeepGeneralization"
+    - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
-    - title: "Samples2Connectome"
+    - title: "Front3-DeepChrome"
+      url: /categories/AIbiomed/
+    - title: "Front4-Samples2Connectome"
       url: /categories/AIfastConnectome/
   - title: Group Information
     url: /
