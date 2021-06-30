@@ -1,7 +1,7 @@
 ---
 categories:
 - AIself
-title: Measuring Visual Generalization in Continuous Control from Pixels
+title: NeurIPS - Measuring Visual Generalization in Continuous Control from Pixels
 tag:
 - RL-Generalization 
 - multi-transfer

@@ -2,7 +2,7 @@
 categories:
 - AItrust
 - AIself
-title: On Quality of Generated Adversarial Examples and How to Set Attack Contraints
+title: EMNLP-  On Quality of Generated Adversarial Examples and How to Set Attack Contraints
 tag:
 - 1-Evasion
 - 4-VisualizeBench

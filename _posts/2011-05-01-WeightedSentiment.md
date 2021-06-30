@@ -1,7 +1,7 @@
 ---
 categories:
 - AIself
-title: Document classification with weighted supervised n-gram embedding
+title: CIKM - Document classification with weighted supervised n-gram embedding
 tag:
 - Represent-ngram 
 ---

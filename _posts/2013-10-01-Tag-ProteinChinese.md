@@ -2,7 +2,7 @@
 categories:
 - AIbiomed
 - AIself
-title: Deep Learning for Character-based Information Extraction on Chinese and Protein Sequence
+title: ECIR - Deep Learning for Character-based Information Extraction on Chinese and Protein Sequence
 tag:
 - Protein
 - DeepSequence 

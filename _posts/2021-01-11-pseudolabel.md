@@ -1,7 +1,7 @@
 ---
 categories:
 - AIself
-title: Curriculum Labeling- Self-paced Pseudo-Labeling for Semi-Supervised Learning
+title: AAAI - Curriculum Labeling- Self-paced Pseudo-Labeling for Semi-Supervised Learning
 tag:
 - Semi-SelfLabel 
 ---

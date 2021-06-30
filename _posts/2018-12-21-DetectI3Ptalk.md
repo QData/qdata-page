@@ -1,7 +1,7 @@
 ---
 categories:
 - AItrust
-title:  Feature Squeezing- Invited Webinar Talk at I3P 
+title: DrQi's Feature Squeezing- Invited Webinar Talk at I3P 
 tag: 2-Detection
 ---
 

@@ -1,7 +1,7 @@
 ---
 categories:
 - AItrust
-title: Blackbox Generation of Adversarial Text Sequences 
+title: SPW - Blackbox Generation of Adversarial Text Sequences 
 tag:
 - 1-Evasion
 - 4-VisualizeBench

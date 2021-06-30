@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: TSK- Transfer String Kernel for Cross-Context DNA-Protein Binding Prediction
+title: TCBB - TSK- Transfer String Kernel for Cross-Context DNA-Protein Binding Prediction
 tag:  
 - SeqGenome
 - SVM-StringKernel

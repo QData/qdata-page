@@ -2,7 +2,7 @@
 categories:
 - AIbiomed
 - AIself
-title: Prototype Matching Networks for Large-Scale Multi-label Genomic Sequence Classification
+title: MLCB - Prototype Matching Networks for Large-Scale Multi-label Genomic Sequence Classification
 tag:
 - SeqGenome
 - DeepSequence

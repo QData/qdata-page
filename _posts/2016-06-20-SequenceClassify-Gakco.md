@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title:  GaKCo-SVM- a Fast GApped k-mer string Kernel using COunting
+title: ECML - GaKCo-SVM- a Fast GApped k-mer string Kernel using COunting
 tag:
 - fast-gkm-svm
 - SeqGenome

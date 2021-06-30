@@ -1,7 +1,7 @@
 ---
 categories:
 - AIself
-title:  Learning the Dependency Structure of Latent Factors
+title: NeurIPS- Learning the Dependency Structure of Latent Factors
 tag:
 - Learn-Dictionary
 - Graph-generative

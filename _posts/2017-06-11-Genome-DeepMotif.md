@@ -2,7 +2,7 @@
 categories:
 - AIbiomed
 - AItrust
-title: Deep Motif Dashboard- Visualizing and Understanding Genomic Sequences Using Deep Neural Networks
+title: PSB - Deep Motif Dashboard- Visualizing and Understanding Genomic Sequences Using Deep Neural Networks
 tag:
 - SeqGenome
 - DeepSequence

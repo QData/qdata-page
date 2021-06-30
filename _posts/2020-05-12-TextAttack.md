@@ -2,7 +2,7 @@
 categories:
 - AItrust
 - AIself
-title: TextAttack- A Framework for Adversarial Attacks in Natural Language Processing
+title: EMNLP - TextAttack- A Framework for Adversarial Attacks in Natural Language Processing
 tag:
 - 1-Evasion
 - 4-VisualizeBench

@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: My tutorial talk at ACM-BCB 2018 for Making Deep Learning Understandable for Genomics
+title: BCB- DrQ's tutorial talk at ACM-BCB 2018 for Making Deep Learning Understandable for Genomics
 tag:
 - Tutorials 
 - 6-Interpret

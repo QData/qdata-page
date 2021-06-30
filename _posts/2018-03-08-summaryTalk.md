@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: My Summary Talk about DeepChrome-AttentiveChrome-DeepMotif
+title: DrQ Tutorial Talk about DeepChrome-AttentiveChrome-DeepMotif
 tag:
 - Tutorials 
 - 6-Interpret

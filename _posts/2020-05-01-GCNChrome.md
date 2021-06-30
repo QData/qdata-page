@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data
+title: Bioinformatics - Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data
 tag:
 - EpiGenome
 - SeqGenome

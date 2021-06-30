@@ -2,7 +2,7 @@
 categories:
 - AItrust
 - AIself
-title: Benchmarking Search Algorithms for Generating NLP Adversarial Examples
+title: EMNLP - Benchmarking Search Algorithms for Generating NLP Adversarial Examples
 tag:
 - 1-Evasion
 - 4-VisualizeBench

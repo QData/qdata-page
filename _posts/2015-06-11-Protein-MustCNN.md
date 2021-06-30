@@ -2,7 +2,7 @@
 categories:
 - AIbiomed
 - AIself
-title:  MUST-CNN- A Multilayer Shift-and-Stitch Deep Convolutional Architecture for Sequence-based Protein Structure Prediction
+title:  AAAI - MUST-CNN- A Multilayer Shift-and-Stitch Deep Convolutional Architecture for Sequence-based Protein Structure Prediction
 tag:
 - Protein
 - DeepSequence 

@@ -1,7 +1,7 @@
 ---
 categories:
 - AIfastConnectome
-title: My tutorial talk about jointnets at UCLA computational genomics summer school 2019 for extracting connectomes from heterogeneous samples
+title: DrQi's tutorial talk about jointnets at UCLA computational genomics summer school 2019 for extracting connectomes from heterogeneous samples
 tag:
 - Tutorials 
 - Graph-generative

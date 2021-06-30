@@ -1,7 +1,7 @@
 ---
 categories:
 - AItrust
-title: Adversarial-Playground Paper  Appear @ VizSec17  
+title: VizSec17 - Adversarial-Playground Paper  Appear @ VizSec17  
 tag:
 - 4-VisualizeBench
 - ToolKit

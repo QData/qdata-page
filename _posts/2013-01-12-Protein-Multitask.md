@@ -2,7 +2,7 @@
 categories:
 - AIbiomed
 - AIself
-title:   A unified multitask architecture for predicting local structural properties on proteins
+title:  Plos- A unified multitask architecture for predicting local structural properties on proteins
 tag:
 - Protein
 - DeepSequence 

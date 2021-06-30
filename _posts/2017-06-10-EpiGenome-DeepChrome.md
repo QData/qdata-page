@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: DeepChrome- deep-learning for predicting gene expression from histone modifications
+title: Bioinformatics - DeepChrome- deep-learning for predicting gene expression from histone modifications
 tag:
 - EpiGenome
 - DeepSequence

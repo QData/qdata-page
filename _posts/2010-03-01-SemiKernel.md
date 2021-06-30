@@ -2,7 +2,7 @@
 categories:
 - AIbiomed
 - AIself
-title: Systems and methods for semi-supervised relationship extraction
+title: ECML - Systems and methods for semi-supervised relationship extraction
 tag:
 - BioText
 - SVM-StringKernel

@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: My Talk in 2013 about our DeepLearning Works on Protein and BioNLP datasets
+title: DrQ Talk in 2013 about our DeepLearning Works on Protein and BioNLP datasets
 tag:
 - Tutorials
 ---

@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: DeepDiff- Deep-learning for predicting Differential gene expression from histone modifications
+title: Bioinformatics - DeepDiff- Deep-learning for predicting Differential gene expression from histone modifications
 tag:
 - EpiGenome
 - DeepSequence

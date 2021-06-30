@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: AttentiveChrome-Deep Attention Model to Understand Gene Regulation by Selective Attention on Chromatin
+title: NeurIPS - AttentiveChrome-Deep Attention Model to Understand Gene Regulation by Selective Attention on Chromatin
 tag:
 - EpiGenome
 - DeepSequence

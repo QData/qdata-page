@@ -3,7 +3,7 @@ categories:
 - AIbiomed
 - AItrust
 - AIself
-title: Memory Matching Networks for Genomic Sequence Classification
+title: ICLR - Memory Matching Networks for Genomic Sequence Classification
 tag:
 - SeqGenome
 - DeepSequence

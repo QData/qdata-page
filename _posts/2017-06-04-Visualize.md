@@ -1,7 +1,7 @@
 ---
 categories:
 - AItrust
-title: Adversarial-Playground- A Visualization Suite for Adversarial Sample Generation
+title: VizSec - Adversarial-Playground- A Visualization Suite for Adversarial Sample Generation
 tag:
 - 4-VisualizeBench
 ---
