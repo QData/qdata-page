@@ -10,7 +10,7 @@ classes: wide
 ---
 
 <div>
-  This front adapts from our legacy website <a href="http://deepchrome.org/">deepchrome.org</a> and introduces updates of a suite of
+  This front adapts from our legacy website <a href="http://deepchrome.net/">deepchrome.org (later to deepchrome.net) </a> and introduces updates of a suite of
     deep learning tools we have developed for learning patterns and making predictions on biomedical data (mostly from functional genomics).
     Please feel free to email me when you find my typos. 
 
