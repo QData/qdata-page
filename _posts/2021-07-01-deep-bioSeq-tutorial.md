@@ -5,6 +5,10 @@ title: DrQi's tutorial talk at UVA-VADC seminar on "Make Deep Learning Interpret
 tag:
 - Tutorials 
 - 6-Interpret
+- Protein
+- DeepSequence 
+- BioGraph
+- ToolKit
 ---
 
 I gave a tutorial talk  at UVA-VADC Seminar Series 2021. 
@@ -35,7 +39,7 @@ This tutorial includes four of our recent papers:
 - [GitHub](https://github.com/QData/AttentiveChrome)
 
 
-### Title: GCNChrome: Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data
+### Tool: GCNChrome: Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data
 
 
 - Paper @[Bioinformatics](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i659/6055904)
@@ -44,10 +48,10 @@ This tutorial includes four of our recent papers:
 - GitHub: [https://github.com/QData/ChromeGCN](https://github.com/QData/ChromeGCN)
 
 
-### Title: Transfer Learning for Predicting Virus-Host Protein Interactions for Novel Virus Sequences
+### Tool: Transfer Learning for Predicting Virus-Host Protein Interactions for Novel Virus Sequences
 
 
-### PDF @ [ACM BCB21](https://www.biorxiv.org/content/10.1101/2020.12.14.422772v2)
+- PDF @ [ACM BCB21](https://www.biorxiv.org/content/10.1101/2020.12.14.422772v2)
 
 - GitHub [https://github.com/QData/DeepVHPPI](https://github.com/QData/DeepVHPPI)
 
