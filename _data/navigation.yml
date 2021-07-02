@@ -23,7 +23,7 @@ main:
     url: /post-feed/
   - title: "Toolkits"
     url: /tags/toolkit/
-  - title: "Tutorials"
+  - title: "Tutorial Talks"
     url: /tags/Tutorials/
   - title: "Group-News"
     url: /news/
@@ -65,7 +65,7 @@ docsshort:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
-    - title: "Tutorials"
+    - title: "Tutorial Talks"
       url: /tags/Tutorials/
   - title: Our Four Research Fronts
     url: /
@@ -102,7 +102,7 @@ docs:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
-    - title: "Tutorials"
+    - title: "Tutorial Talks"
       url: /tags/Tutorials/
   - title: Our Four Research Fronts
     url: /
@@ -237,7 +237,7 @@ docs4DeepChrome:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
-    - title: "Tutorials"
+    - title: "Tutorial Talks"
       url: /tags/Tutorials/
 
 
@@ -281,7 +281,7 @@ docs4TrustworthyAI:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
-    - title: "Tutorials"
+    - title: "Tutorial Talks"
       url: /tags/Tutorials/
 
 
@@ -324,7 +324,7 @@ docs4Samples2Connectome:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
-    - title: "Tutorials"
+    - title: "Tutorial Talks"
       url: /tags/Tutorials/
 
 
@@ -368,7 +368,7 @@ docs4DeepDiscrete:
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/ 
-    - title: "Tutorials"
+    - title: "Tutorial Talks"
       url: /tags/Tutorials/
 
     

@@ -23,9 +23,10 @@ tag:
 
 ### PDF @ [BioArxiv](https://www.biorxiv.org/content/10.1101/2020.12.14.422772v2)
 
+- GitHub [https://github.com/QData/DeepVHPPI](https://github.com/QData/DeepVHPPI)
 
-### Talk: [Slide Coming]({{ site.baseurl }}/pic/semiPPI.pdf)
 
+### Talk: [Slide]({{ site.baseurl }}/pic/semiPPI.pdf)
 
 
 ### Abstract
