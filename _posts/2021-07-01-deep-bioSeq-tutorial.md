@@ -1,7 +1,7 @@
 ---
 categories:
 - AIbiomed
-title: DrQi's tutorial talk at UVA-VADC seminar on "Make Deep Learning Interpretable for Sequential Data Analysis in Biomedicine" (Including our work on DeepChrome - AttentiveChrome - GCNChrome  - DeepMotif - DeepVHPPI - MotifTransformer)
+title: DrQi's tutorial talk on "Make Deep Learning Interpretable for Sequential Data Analysis in Biomedicine" (Including our work on DeepChrome - AttentiveChrome - GCNChrome  - DeepMotif - DeepVHPPI - MotifTransformer)
 tag:
 - Tutorials 
 - 6-Interpret
