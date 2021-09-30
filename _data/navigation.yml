@@ -1,12 +1,6 @@
 
 # main links
 main:
-  - title: "Research-ByYear"
-    url: /posts/
-  - title: "Research-ByCategory"
-    url: /categories-grid/
-  - title: "Research-ByTags"
-    url: /tags-grid/
   - title: "Front1-TrustworthyAI"
     url: /categories/AItrust/
   - title: "Front2-DeepGeneralization"
@@ -15,7 +9,13 @@ main:
     url: /categories/AIbiomed/
   - title: "Front4-Samples2Connectome"
     url: /categories/AIfastConnectome/
-  - title: "JournalClub-Algorithm"
+  - title: "Research-ByYear"
+    url: /posts/
+  - title: "Research-ByCategory"
+    url: /categories-grid/
+  - title: "Research-ByTags"
+    url: /tags-grid/
+  - title: "JournalClub-deep2read"
     url: "https://qdata.github.io/deep2Read/aReadingsIndexByTags/"
   - title: "JournalClub-Undergraduate"
     url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
