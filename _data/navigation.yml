@@ -36,7 +36,7 @@ main:
   - title: "Group-Capstones"
     url: "https://github.com/Qdata4Capstone"
   - title: "Publication List"
-    url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+    url: "https://qiyanjun.github.io/Homepage/papers.htm"
   - title: "thisGithub"
     url: "https://github.com/QData/qdata-page/"
 
@@ -60,7 +60,7 @@ docsshort:
     - title: "Member"
       url: /member-page/
     - title: "Publication List"
-      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+      url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -97,7 +97,7 @@ docs:
     - title: "Member"
       url: /member-page/
     - title: "Publication List"
-      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+      url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -232,7 +232,7 @@ docs4DeepChrome:
     - title: "Member"
       url: /member-page/
     - title: "Publication List"
-      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+      url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -276,7 +276,7 @@ docs4TrustworthyAI:
     - title: "Member"
       url: /member-page/
     - title: "Publication List"
-      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+      url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -319,7 +319,7 @@ docs4Samples2Connectome:
     - title: "Member"
       url: /member-page/
     - title: "Publication List"
-      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+      url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"
@@ -363,7 +363,7 @@ docs4DeepDiscrete:
     - title: "Member"
       url: /member-page/
     - title: "Publication List"
-      url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+      url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
       url: /news/
     - title: "Toolkits we built"

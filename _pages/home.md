@@ -62,7 +62,7 @@ feature_row:
     alt: "Our Publications"
     title: "Our Publications"
     excerpt: "A list of our publications.."
-    url: "http://www.cs.virginia.edu/yanjun/papers.htm"
+    url: "https://qiyanjun.github.io/Homepage/papers.htm"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/team.png
