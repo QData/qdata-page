@@ -19,20 +19,11 @@ desc: 'a suite of deep learning tools with weak supervisions that we have develo
 <hr>
 
 ## Background on why Generalization topics of Deep Learning are interesting? 
-Generalization refers to how a machine model adapts properly to new, previously unseen data. 
+Generalization refers to how a machine model adapts properly to new, previously unseen data. We focus on OOD (out of distribution) generalization. 
 
 
 ![timeline]({{ site.baseurl }}pic/OOD-generalization.png){:class="img-responsive"}
 
-
-## Background on Representation Learning and Deep Learning
-
-The performance of machine learning algorithms is largely dependent on the
- data representation (or features) on which they are
-applied. Deep learning aims at discovering learning algorithms that can
-find multiple levels of representations directly from data, with higher
-levels representing more abstract concepts. In recent years,
-the field of deep learning has lead to groundbreaking performance in many applications such as computer vision, speech understanding, natural language processing, and computational biology.
 
 
 ## Why structured discrete Data is Interesting? 
@@ -46,10 +37,14 @@ Developing such techniques are an active research area. We focus on investigatin
 
 ## Relevant Papers we published 
 
-+ Please check out each item in our side-bar
++ We can use a component-view to categorize the research topics in OOD generalization: 
+  - (1) sample level 
+  - (2) feature level 
+  - (3) representation/encoding level
+  - (4) loss level
+  - (5) task level (e.g., meta learning, few shot generalization)
+  - Please check out each item in our side-bar
 
-
-## We have focused on weak supervision in multiple of our papers along this line of research. 
 
 ![timeline]({{ site.baseurl }}pic/weaksupervised.png){:class="img-responsive"}
 
