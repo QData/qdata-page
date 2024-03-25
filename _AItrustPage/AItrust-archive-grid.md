@@ -9,7 +9,7 @@ desc: 'A suite of tools we designed for making machine learning secure and trust
 
 <div>
     This front adapts from our legacy website <a href="http://www.securemachinelearning.org/">http://TrustworthyMachineLearning.org/</a>  and introduces updates of  a suite of tools
-  we have designed for making machine learning secure and trustworthy. This project involves toolboxes for five main tasks
+  we have designed for making deep learning secure and trustworthy. This project involves toolboxes for five main tasks
   (organized as entries in the navigation menu).
   Please feel free to email me when you find my typos. 
 
@@ -20,14 +20,14 @@ desc: 'A suite of tools we designed for making machine learning secure and trust
 
 ## Scope of problems our tools aim to tackle
 
-Classifiers based on machine learning algorithms have shown promising results for many security tasks including malware classification and network intrusion detection, but classic machine learning algorithms are not designed to operate in the presence of adversaries. Intelligent and adaptive adversaries may actively manipulate the information they present in attempts to evade a trained classifier, leading to a competition between the designers of learning systems and attackers who wish to evade them. This project is developing automated techniques for predicting how well classifiers will resist the evasions of adversaries, along with general methods to automatically harden machine-learning classifiers against adversarial evasion attacks.
+Deep learning-based natural language processing  (deep NLP) plays a crucial role in many security-critical domains, advancing information understanding and analysis for healthcare, legal justice, e-commerce,  social media platforms, and many more.  Consequently, it is essential to understand the robustness of deep NLP systems to adaptive adversaries. We introduce techniques to automatically evaluate and improve the adversarial robustness of deep NLP frameworks. This topic is a new and exciting area requiring expertise and close collaboration across multiple disciplines, including adversarial machine learning, natural language processing, and software testing. 
 
 
 
 ## Important tasks
 
 
-At the junction between machine learning and computer security, this project involves toolboxes for five main task as  shown in the following table. Our system aims to allow a classifier designer to understand how the classification performance of a model degrades under evasion attacks, enabling better-informed and more secure design choices. The framework is general and scalable, and takes advantage of the latest advances in machine learning and computer security.
+At the junction between NLP, deep learning and computer security, we build toolboxes for five main task as  shown in the following table. Our system aims to allow a NLP  designer to understand how their NLP system performance  degrades under evasion attacks, enabling better-informed and more secure design choices. The framework is general and scalable, and takes advantage of the latest advances in deep NLP  and computer security.
 
 ![timeline]({{ site.baseurl }}pic/trustworthyML.png){:class="img-responsive"}
 
