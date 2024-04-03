@@ -6,6 +6,7 @@ tag:
 - Tutorials
 - Graph-discriminative 
 - Graph-generative
+- multi-Graph-generative
 ---
 
 ## Arshdeep Sekhon's PhD Defense 
