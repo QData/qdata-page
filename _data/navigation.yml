@@ -5,30 +5,26 @@ main:
     url: /categories/AItrust/
   - title: "Front2-DeepGeneralization"
     url: /categories/AIself/
-  - title: "Front3-DeepChrome"
-    url: /categories/AIbiomed/
-  - title: "Front4-Samples2Connectome"
-    url: /categories/AIfastConnectome/
+  - title: "Group-News"
+    url: /news/
+  - title: "Group-Member"
+    url: /member-page/
+  - title: "JournalClub-deep2read"
+    url: "https://qdata.github.io/deep2Read/aReadingsIndexByTags/"
+  - title: "JournalClub-Undergraduate"
+    url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
   - title: "Research-ByYear"
     url: /posts/
   - title: "Research-ByCategory"
     url: /categories-grid/
   - title: "Research-ByTags"
     url: /tags-grid/
-  - title: "JournalClub-deep2read"
-    url: "https://qdata.github.io/deep2Read/aReadingsIndexByTags/"
-  - title: "JournalClub-Undergraduate"
-    url: "https://qdata.github.io/deep-learning-undergrad-reading-group/"
   - title: "allBlogs"
     url: /post-feed/
   - title: "Toolkits"
     url: /tags/toolkit/
   - title: "Tutorial Talks"
     url: /tags/Tutorials/
-  - title: "Group-News"
-    url: /news/
-  - title: "Group-Member"
-    url: /member-page/
   - title: "Group-Github"
     url: "https://github.com/qdata"
   - title: "Group-Videos"
@@ -67,13 +63,16 @@ docsshort:
       url: /tags/toolkit/
     - title: "Tutorial Talks"
       url: /tags/Tutorials/
-  - title: Our Four Research Fronts
+  - title: Our Current Research Fronts
     url: /
     children:
     - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
     - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
+  - title: Our Past Research Fronts
+    url: /
+    children:
     - title: "Front3-DeepChrome"
       url: /categories/AIbiomed/
     - title: "Front4-Samples2Connectome"
@@ -104,13 +103,16 @@ docs:
       url: /tags/toolkit/
     - title: "Tutorial Talks"
       url: /tags/Tutorials/
-  - title: Our Four Research Fronts
+  - title: Our Current Research Fronts
     url: /
     children:
     - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
     - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
+  - title: Our Past Research Fronts
+    url: /
+    children:
     - title: "Front3-DeepChrome"
       url: /categories/AIbiomed/
     - title: "Front4-Samples2Connectome"
@@ -215,13 +217,16 @@ docs4DeepChrome:
         url: /tags/DeepSequence/
       - title: "SVM-StringKernel"
         url: /tags/SVM-StringKernel/
-  - title: Our Four Research Fronts
+  - title: Our Current Research Fronts
     url: /
     children:
     - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
     - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
+  - title: Our Past Research Fronts
+    url: /
+    children:
     - title: "Front3-DeepChrome"
       url: /categories/AIbiomed/
     - title: "Front4-Samples2Connectome"
@@ -259,13 +264,16 @@ docs4TrustworthyAI:
         url: /tags/5-Theory/
       - title: "6-Interpret"
         url: /tags/6-Interpret/
-  - title: Our Four Research Fronts
+  - title: Our Current Research Fronts
     url: /
     children:
     - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
     - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
+  - title: Our Past Research Fronts
+    url: /
+    children:
     - title: "Front3-DeepChrome"
       url: /categories/AIbiomed/
     - title: "Front4-Samples2Connectome"
@@ -302,13 +310,16 @@ docs4Samples2Connectome:
         url: /tags/Graph-discriminative/
       - title: "Predict-edges"
         url: /tags/Predict-edges/
-  - title: Our Four Research Fronts
+  - title: Our Current Research Fronts
     url: /
     children:
     - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
     - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
+  - title: Our Past Research Fronts
+    url: /
+    children:
     - title: "Front3-DeepChrome"
       url: /categories/AIbiomed/
     - title: "Front4-Samples2Connectome"
@@ -346,13 +357,16 @@ docs4DeepDiscrete:
         url: /tags/Rank-Metric/
       - title: "Represent-ngram"
         url: /tags/Represent-ngram/
-  - title: Our Four Research Fronts
+  - title: Our Current Research Fronts
     url: /
     children:
     - title: "Front1-TrustworthyAI"
       url: /categories/AItrust/
     - title: "Front2-DeepGeneralization"
       url: /categories/AIself/
+  - title: Our Past Research Fronts
+    url: /
+    children:
     - title: "Front3-DeepChrome"
       url: /categories/AIbiomed/
     - title: "Front4-Samples2Connectome"
