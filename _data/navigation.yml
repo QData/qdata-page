@@ -53,11 +53,11 @@ docsshort:
   - title: Group Information
     url: /
     children:
-    - title: "Member"
+    - title: "Group Member"
       url: /member-page/
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
-    - title: "News"
+    - title: "Group News"
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
@@ -93,11 +93,11 @@ docs:
   - title: Group Information
     url: /
     children:
-    - title: "Member"
+    - title: "Group Member"
       url: /member-page/
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
-    - title: "News"
+    - title: "Group News"
       url: /news/
     - title: "Toolkits we built"
       url: /tags/toolkit/
