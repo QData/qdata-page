@@ -14,7 +14,7 @@ tag:
 
 
 
-### [Talk PDF](http://www.cs.virginia.edu/yanjun/paperA14/2014-sdm-deepsc-talk.pdf)
+### [Talk PDF](https://qiyanjun.github.io/Homepage//paperA14/2014-sdm-deepsc-talk.pdf)
 
 
 ### Abstract:

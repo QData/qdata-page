@@ -16,7 +16,7 @@ tag:
 
 ### [GitHub](https://github.com/DeepLearning4BioSeqText/Paper12-NIPS-SparseGGM4LatentFactors)
 
-### [Poster PDF](https://www.cs.virginia.edu/yanjun/paperA14/2012_SLFA_NIPS.pdf)
+### [Poster PDF](https://qiyanjun.github.io/Homepage//paperA14/2012_SLFA_NIPS.pdf)
 
 
 

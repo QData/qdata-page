@@ -51,7 +51,7 @@ At the junction between NLP, deep learning and computer security, we build toolb
 
 
 ## Contact
-Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/Qdatalab) or [email me](http://www.cs.virginia.edu/yanjun/).
+Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/Qdatalab) or [email me](https://qiyanjun.github.io/Homepage/).
 
 Thanks for reading!
 
