@@ -6,7 +6,7 @@ main:
   - title: "Front2-DeepGeneralization"
     url: /categories/AIself/
   - title: "Group-News"
-    url: /news/
+    url: "https://qiyanjun.github.io/Homepage/gnews.htm"
   - title: "Group-Member"
     url: /member-page/
   - title: "JournalClub-deep2read"
@@ -58,7 +58,7 @@ docsshort:
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "Group News"
-      url: /news/
+      url: "https://qiyanjun.github.io/Homepage/gnews.htm"
     - title: "Toolkits we built"
       url: /tags/toolkit/
     - title: "Tutorial Talks"
@@ -98,7 +98,7 @@ docs:
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "Group News"
-      url: /news/
+      url: "https://qiyanjun.github.io/Homepage/gnews.htm"
     - title: "Toolkits we built"
       url: /tags/toolkit/
     - title: "Tutorial Talks"
@@ -239,7 +239,7 @@ docs4DeepChrome:
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
-      url: /news/
+      url: "https://qiyanjun.github.io/Homepage/gnews.htm"
     - title: "Toolkits we built"
       url: /tags/toolkit/
     - title: "Tutorial Talks"
@@ -286,7 +286,7 @@ docs4TrustworthyAI:
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
-      url: /news/
+      url: "https://qiyanjun.github.io/Homepage/gnews.htm"
     - title: "Toolkits we built"
       url: /tags/toolkit/
     - title: "Tutorial Talks"
@@ -332,7 +332,7 @@ docs4Samples2Connectome:
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
-      url: /news/
+      url: "https://qiyanjun.github.io/Homepage/gnews.htm"
     - title: "Toolkits we built"
       url: /tags/toolkit/
     - title: "Tutorial Talks"
@@ -379,7 +379,7 @@ docs4DeepDiscrete:
     - title: "Publication List"
       url: "https://qiyanjun.github.io/Homepage/papers.htm"
     - title: "News"
-      url: /news/
+      url: "https://qiyanjun.github.io/Homepage/gnews.htm"
     - title: "Toolkits we built"
       url: /tags/toolkit/ 
     - title: "Tutorial Talks"
